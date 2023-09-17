@@ -1,12 +1,33 @@
 [
     {
+        "id": "230917_GJ_2G",
+        "url": "https://www.lowes.com/b/lowesbrands",
+        "timestamp": 1694969426,
+        "lcp": 1201,
+        "origin": "https://www.lowes.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_GJ_2G",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_GJ_2G",
+        "label": "monitor.nohints.lowes.blowesbrands"
+    },
+    {
+        "id": "230917_ER_2F",
+        "url": "https://www.lowes.com/c/Departments",
+        "timestamp": 1694969235,
+        "lcp": 4771,
+        "origin": "https://www.lowes.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ER_2F",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ER_2F",
+        "label": "monitor.hints.lowes.cDepartments"
+    },
+    {
         "id": "230917_7K_2E",
         "url": "https://www.lowes.com/c/Departments",
         "timestamp": 1694969084,
         "lcp": 1766,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7K_2E",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7K_2E"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7K_2E",
+        "label": "monitor.nohints.lowes.cDepartments"
     },
     {
         "id": "230917_YD_2D",
@@ -15,7 +36,8 @@
         "lcp": 2197,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YD_2D",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YD_2D"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YD_2D",
+        "label": "monitor.hints.lowes.bcraftsman"
     },
     {
         "id": "230917_XB_2C",
@@ -24,7 +46,8 @@
         "lcp": 2974,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_XB_2C",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_XB_2C"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_XB_2C",
+        "label": "monitor.nohints.lowes.bcraftsman"
     },
     {
         "id": "230917_SN_2B",
@@ -33,7 +56,8 @@
         "lcp": 4559,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_SN_2B",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_SN_2B"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_SN_2B",
+        "label": "monitor.hints.lowes.bthompsonswaterseal"
     },
     {
         "id": "230917_TR_2A",
@@ -42,7 +66,8 @@
         "lcp": 916,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TR_2A",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TR_2A"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TR_2A",
+        "label": "monitor.nohints.lowes.bthompsonswaterseal"
     },
     {
         "id": "230917_5V_29",
@@ -51,7 +76,8 @@
         "lcp": 4310,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5V_29",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5V_29"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5V_29",
+        "label": "monitor.hints.lowes.cPlumbing"
     },
     {
         "id": "230917_B8_28",
@@ -60,7 +86,8 @@
         "lcp": 4398,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_B8_28",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_B8_28"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_B8_28",
+        "label": "monitor.nohints.lowes.cPlumbing"
     },
     {
         "id": "230917_R8_27",
@@ -69,7 +96,8 @@
         "lcp": 1493,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_R8_27",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_R8_27"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_R8_27",
+        "label": "monitor.hints.lowes.cKitchen"
     },
     {
         "id": "230917_YE_26",
@@ -78,7 +106,8 @@
         "lcp": 2142,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YE_26",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YE_26"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YE_26",
+        "label": "monitor.nohints.lowes.cKitchen"
     },
     {
         "id": "230917_2P_25",
@@ -87,7 +116,8 @@
         "lcp": 2047,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_2P_25",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_2P_25"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_2P_25",
+        "label": "monitor.hints.lowes.bgreenworks"
     },
     {
         "id": "230917_QM_24",
@@ -96,7 +126,8 @@
         "lcp": 1340,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QM_24",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QM_24"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QM_24",
+        "label": "monitor.nohints.lowes.bgreenworks"
     },
     {
         "id": "230917_ZR_23",
@@ -105,7 +136,8 @@
         "lcp": 2079,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZR_23",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZR_23"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZR_23",
+        "label": "monitor.hints.lowes.bpella"
     },
     {
         "id": "230917_VH_22",
@@ -114,7 +146,8 @@
         "lcp": 2759,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_VH_22",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_VH_22"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_VH_22",
+        "label": "monitor.nohints.lowes.bpella"
     },
     {
         "id": "230917_83_21",
@@ -123,7 +156,8 @@
         "lcp": 1436,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_83_21",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_83_21"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_83_21",
+        "label": "monitor.hints.lowes.bkichler"
     },
     {
         "id": "230917_X2_20",
@@ -132,7 +166,8 @@
         "lcp": 1751,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X2_20",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X2_20"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X2_20",
+        "label": "monitor.nohints.lowes.bkichler"
     },
     {
         "id": "230917_E9_1Z",
@@ -141,7 +176,8 @@
         "lcp": 2938,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E9_1Z",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E9_1Z"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E9_1Z",
+        "label": "monitor.hints.lowes.bflexseal"
     },
     {
         "id": "230917_JB_1Y",
@@ -150,7 +186,8 @@
         "lcp": 3396,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_JB_1Y",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_JB_1Y"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_JB_1Y",
+        "label": "monitor.nohints.lowes.bflexseal"
     },
     {
         "id": "230917_TA_1X",
@@ -159,7 +196,8 @@
         "lcp": 2433,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_1X",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_1X"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_1X",
+        "label": "monitor.hints.lowes"
     },
     {
         "id": "230917_MT_1W",
@@ -168,7 +206,8 @@
         "lcp": 1520,
         "origin": "https://www.lowes.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_MT_1W",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_MT_1W"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_MT_1W",
+        "label": "monitor.nohints.lowes"
     },
     {
         "id": "230917_NK_1V",
@@ -177,7 +216,8 @@
         "lcp": 2328,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_NK_1V",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_NK_1V"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_NK_1V",
+        "label": "monitor.hints.homedepot.cconcrete_equipment_rental"
     },
     {
         "id": "230917_WY_1T",
@@ -186,7 +226,8 @@
         "lcp": 2320,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WY_1T",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WY_1T"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WY_1T",
+        "label": "monitor.nohints.homedepot.cconcrete_equipment_rental"
     },
     {
         "id": "230917_G0_1S",
@@ -195,7 +236,8 @@
         "lcp": 2353,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_G0_1S",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_G0_1S"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_G0_1S",
+        "label": "monitor.hints.homedepot.ctile_saws_equipment_rental"
     },
     {
         "id": "230917_77_1R",
@@ -204,7 +246,8 @@
         "lcp": 2782,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_77_1R",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_77_1R"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_77_1R",
+        "label": "monitor.nohints.homedepot.ctile_saws_equipment_rental"
     },
     {
         "id": "230917_56_1Q",
@@ -213,7 +256,8 @@
         "lcp": 2786,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_56_1Q",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_56_1Q"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_56_1Q",
+        "label": "monitor.hints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
     },
     {
         "id": "230917_JS_1P",
@@ -222,7 +266,8 @@
         "lcp": 2702,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_JS_1P",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_JS_1P"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_JS_1P",
+        "label": "monitor.nohints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
     },
     {
         "id": "230917_FQ_1N",
@@ -231,7 +276,8 @@
         "lcp": 2583,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FQ_1N",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FQ_1N"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FQ_1N",
+        "label": "monitor.hints.homedepot.cAbout_Your_Online_Order"
     },
     {
         "id": "230917_9S_1M",
@@ -240,7 +286,8 @@
         "lcp": 2492,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_9S_1M",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_9S_1M"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_9S_1M",
+        "label": "monitor.nohints.homedepot.cAbout_Your_Online_Order"
     },
     {
         "id": "230917_QM_1K",
@@ -249,7 +296,8 @@
         "lcp": 2510,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QM_1K",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QM_1K"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QM_1K",
+        "label": "monitor.hints.homedepot.cSF_Mobile_Shopping"
     },
     {
         "id": "230917_6Z_1J",
@@ -258,7 +306,8 @@
         "lcp": 2514,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Z_1J",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Z_1J"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Z_1J",
+        "label": "monitor.nohints.homedepot.cSF_Mobile_Shopping"
     },
     {
         "id": "230917_N2_1H",
@@ -267,7 +316,8 @@
         "lcp": 2557,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_N2_1H",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_N2_1H"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_N2_1H",
+        "label": "monitor.hints.homedepot.cPaint_Offers"
     },
     {
         "id": "230917_R8_1G",
@@ -276,7 +326,8 @@
         "lcp": 2630,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_R8_1G",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_R8_1G"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_R8_1G",
+        "label": "monitor.nohints.homedepot.cPaint_Offers"
     },
     {
         "id": "230917_W0_1D",
@@ -285,7 +336,8 @@
         "lcp": 3728,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W0_1D",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W0_1D"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W0_1D",
+        "label": "monitor.hints.homedepot"
     },
     {
         "id": "230917_3T_1C",
@@ -294,7 +346,8 @@
         "lcp": 4182,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_3T_1C",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_3T_1C"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_3T_1C",
+        "label": "monitor.nohints.homedepot"
     },
     {
         "id": "230917_H5_1A",
@@ -303,7 +356,8 @@
         "lcp": 3869,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_H5_1A",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_H5_1A"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_H5_1A",
+        "label": "monitor.hints.homedepot"
     },
     {
         "id": "230917_91_19",
@@ -312,7 +366,8 @@
         "lcp": 2561,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_91_19",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_91_19"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_91_19",
+        "label": "monitor.nohints.homedepot"
     },
     {
         "id": "230917_HS_17",
@@ -321,7 +376,8 @@
         "lcp": 3126,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_HS_17",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_HS_17"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_HS_17",
+        "label": "monitor.hints.homedepot.l"
     },
     {
         "id": "230917_VX_16",
@@ -330,7 +386,8 @@
         "lcp": 3125,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_VX_16",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_VX_16"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_VX_16",
+        "label": "monitor.nohints.homedepot.l"
     },
     {
         "id": "230917_GT_15",
@@ -339,7 +396,8 @@
         "lcp": 2921,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_GT_15",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_GT_15"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_GT_15",
+        "label": "monitor.hints.homedepot.lawnmaster"
     },
     {
         "id": "230917_RM_14",
@@ -348,7 +406,8 @@
         "lcp": 2924,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_RM_14",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_RM_14"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_RM_14",
+        "label": "monitor.nohints.homedepot.lawnmaster"
     },
     {
         "id": "230917_5R_13",
@@ -357,7 +416,8 @@
         "lcp": 3641,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5R_13",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5R_13"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5R_13",
+        "label": "monitor.hints.homedepot"
     },
     {
         "id": "230917_P9_12",
@@ -366,7 +426,8 @@
         "lcp": 3743,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_P9_12",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_P9_12"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_P9_12",
+        "label": "monitor.nohints.homedepot"
     },
     {
         "id": "230917_HB_11",
@@ -375,7 +436,8 @@
         "lcp": 4188,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_HB_11",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_HB_11"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_HB_11",
+        "label": "monitor.nohints.homedepot"
     },
     {
         "id": "230917_5C_10",
@@ -384,7 +446,8 @@
         "lcp": 2948,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5C_10",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5C_10"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5C_10",
+        "label": "monitor.nohints.homedepot.lawnmaster"
     },
     {
         "id": "230917_QQ_Z",
@@ -393,7 +456,8 @@
         "lcp": 3697,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QQ_Z",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QQ_Z"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QQ_Z",
+        "label": "monitor.hints.homedepot"
     },
     {
         "id": "230917_AW_Y",
@@ -402,7 +466,8 @@
         "lcp": 3636,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_AW_Y",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_AW_Y"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_AW_Y",
+        "label": "monitor.nohints.homedepot"
     },
     {
         "id": "230917_CA_X",
@@ -411,7 +476,8 @@
         "lcp": 2490,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CA_X",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CA_X"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CA_X",
+        "label": "monitor.nohints.homedepot.lawnmaster"
     },
     {
         "id": "230917_PA_W",
@@ -420,7 +486,8 @@
         "lcp": 3695,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_PA_W",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_PA_W"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_PA_W",
+        "label": "monitor.hints.homedepot"
     },
     {
         "id": "230917_KZ_V",
@@ -429,7 +496,8 @@
         "lcp": 3656,
         "origin": "https://www.homedepot.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_KZ_V",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_KZ_V"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_KZ_V",
+        "label": "monitor.nohints.homedepot"
     },
     {
         "id": "230917_YP_T",
@@ -438,7 +506,8 @@
         "lcp": 5574,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YP_T",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YP_T"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YP_T",
+        "label": "monitor.hints.bootbarn.brandswolverinewolverine"
     },
     {
         "id": "230917_8E_S",
@@ -447,7 +516,8 @@
         "lcp": 9047,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_8E_S",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_8E_S"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_8E_S",
+        "label": "monitor.nohints.bootbarn.brandswolverinewolverine"
     },
     {
         "id": "230917_E0_R",
@@ -456,7 +526,8 @@
         "lcp": 1593,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E0_R",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E0_R"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E0_R",
+        "label": "monitor.hints.bootbarn.clearance.html"
     },
     {
         "id": "230917_K5_Q",
@@ -465,7 +536,8 @@
         "lcp": 1700,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K5_Q",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K5_Q"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K5_Q",
+        "label": "monitor.nohints.bootbarn.clearance.html"
     },
     {
         "id": "230917_YK_P",
@@ -474,7 +546,8 @@
         "lcp": 2251,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YK_P",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YK_P"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YK_P",
+        "label": "monitor.hints.bootbarn.work.html"
     },
     {
         "id": "230917_F6_N",
@@ -483,7 +556,8 @@
         "lcp": 4954,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_F6_N",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_F6_N"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_F6_N",
+        "label": "monitor.nohints.bootbarn.work.html"
     },
     {
         "id": "230917_FG_M",
@@ -492,7 +566,8 @@
         "lcp": 1821,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FG_M",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FG_M"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FG_M",
+        "label": "monitor.hints.bootbarn.app.html"
     },
     {
         "id": "230917_TA_K",
@@ -501,7 +576,8 @@
         "lcp": 2203,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_K",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_K"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_K",
+        "label": "monitor.nohints.bootbarn.app.html"
     },
     {
         "id": "230917_1K_J",
@@ -510,7 +586,8 @@
         "lcp": 14623,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_1K_J",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_1K_J"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_1K_J",
+        "label": "monitor.hints.bootbarn.idyllwind.html"
     },
     {
         "id": "230917_7M_H",
@@ -519,7 +596,8 @@
         "lcp": 11630,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7M_H",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7M_H"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7M_H",
+        "label": "monitor.nohints.bootbarn.idyllwind.html"
     },
     {
         "id": "230917_ZN_G",
@@ -528,7 +606,8 @@
         "lcp": 3244,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZN_G",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZN_G"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZN_G",
+        "label": "monitor.hints.bootbarn.cody_james.html"
     },
     {
         "id": "230917_79_F",
@@ -537,7 +616,8 @@
         "lcp": 2693,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_79_F",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_79_F"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_79_F",
+        "label": "monitor.nohints.bootbarn.cody_james.html"
     },
     {
         "id": "230917_WZ_E",
@@ -546,7 +626,8 @@
         "lcp": 2165,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WZ_E",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WZ_E"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WZ_E",
+        "label": "monitor.hints.bootbarn.blogwork"
     },
     {
         "id": "230917_BM_D",
@@ -555,7 +636,8 @@
         "lcp": 3159,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_BM_D",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_BM_D"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_BM_D",
+        "label": "monitor.nohints.bootbarn.blogwork"
     },
     {
         "id": "230917_Y9_C",
@@ -564,7 +646,8 @@
         "lcp": 1823,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_Y9_C",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_Y9_C"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_Y9_C",
+        "label": "monitor.hints.bootbarn.nhsra.html"
     },
     {
         "id": "230917_DH_B",
@@ -573,7 +656,8 @@
         "lcp": 1910,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_DH_B",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_DH_B"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_DH_B",
+        "label": "monitor.nohints.bootbarn.nhsra.html"
     },
     {
         "id": "230917_W3_A",
@@ -582,7 +666,8 @@
         "lcp": 1835,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W3_A",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W3_A"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W3_A",
+        "label": "monitor.hints.bootbarn.giftcards.html"
     },
     {
         "id": "230917_TM_9",
@@ -591,7 +676,8 @@
         "lcp": 2107,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TM_9",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TM_9"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TM_9",
+        "label": "monitor.nohints.bootbarn.giftcards.html"
     },
     {
         "id": "230917_K7_8",
@@ -600,7 +686,8 @@
         "lcp": 1958,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K7_8",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K7_8"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K7_8",
+        "label": "monitor.hints.bootbarn.login"
     },
     {
         "id": "230917_6Q_7",
@@ -609,7 +696,8 @@
         "lcp": 1660,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Q_7",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Q_7"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Q_7",
+        "label": "monitor.nohints.bootbarn.login"
     },
     {
         "id": "230917_16_6",
@@ -618,7 +706,8 @@
         "lcp": 2815,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_16_6",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_16_6"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_16_6",
+        "label": "monitor.hints.bootbarn"
     },
     {
         "id": "230917_CC_5",
@@ -627,7 +716,8 @@
         "lcp": 9078,
         "origin": "https://www.bootbarn.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CC_5",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CC_5"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CC_5",
+        "label": "monitor.nohints.bootbarn"
     },
     {
         "id": "230917_X0_4",
@@ -636,7 +726,8 @@
         "lcp": 2480,
         "origin": "https://www.viasat.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X0_4",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X0_4"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X0_4",
+        "label": "monitor.nohints.viasat"
     },
     {
         "id": "230917_94_3",
@@ -645,7 +736,8 @@
         "lcp": 3559,
         "origin": "https://www.nike.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_94_3",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_94_3"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_94_3",
+        "label": "monitor.hints.nike"
     },
     {
         "id": "230917_X6_2",
@@ -654,7 +746,8 @@
         "lcp": 3827,
         "origin": "https://www.nike.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X6_2",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X6_2"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X6_2",
+        "label": "monitor.nohints.nike"
     },
     {
         "id": "230916_25_4",
@@ -663,7 +756,8 @@
         "lcp": 2679,
         "origin": "https://www.viasat.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_25_4",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_25_4"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_25_4",
+        "label": "monitor.hints.viasat"
     },
     {
         "id": "230916_2W_3",
@@ -672,7 +766,8 @@
         "lcp": 2611,
         "origin": "https://www.viasat.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_2W_3",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_2W_3"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_2W_3",
+        "label": "monitor.nohints.viasat"
     },
     {
         "id": "230916_0M_2",
@@ -681,7 +776,8 @@
         "lcp": 13253,
         "origin": "https://www.nike.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_0M_2",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_0M_2"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_0M_2",
+        "label": "monitor.hints.nike"
     },
     {
         "id": "230916_04_1",
@@ -690,6 +786,7 @@
         "lcp": 11749,
         "origin": "https://www.nike.com",
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_04_1",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_04_1"
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_04_1",
+        "label": "monitor.nohints.nike"
     }
 ]
