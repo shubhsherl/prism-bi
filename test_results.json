@@ -1,0 +1,317 @@
+[
+    {
+        "id": "230917_5C_10",
+        "url": "https://www.homedepot.com/lawnmaster",
+        "timestamp": 1694957032,
+        "lcp": 2948,
+        "origin": "https://www.homedepot.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5C_10",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_5C_10"
+    },
+    {
+        "id": "230917_QQ_Z",
+        "url": "https://www.homedepot.com",
+        "timestamp": 1694956931,
+        "lcp": 3697,
+        "origin": "https://www.homedepot.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QQ_Z",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_QQ_Z"
+    },
+    {
+        "id": "230917_AW_Y",
+        "url": "https://www.homedepot.com",
+        "timestamp": 1694956727,
+        "lcp": 3636,
+        "origin": "https://www.homedepot.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_AW_Y",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_AW_Y"
+    },
+    {
+        "id": "230917_CA_X",
+        "url": "https://www.homedepot.com/lawnmaster",
+        "timestamp": 1694955327,
+        "lcp": 2490,
+        "origin": "https://www.homedepot.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CA_X",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CA_X"
+    },
+    {
+        "id": "230917_PA_W",
+        "url": "https://www.homedepot.com",
+        "timestamp": 1694955204,
+        "lcp": 3695,
+        "origin": "https://www.homedepot.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_PA_W",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_PA_W"
+    },
+    {
+        "id": "230917_KZ_V",
+        "url": "https://www.homedepot.com",
+        "timestamp": 1694954992,
+        "lcp": 3656,
+        "origin": "https://www.homedepot.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_KZ_V",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_KZ_V"
+    },
+    {
+        "id": "230917_YP_T",
+        "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
+        "timestamp": 1694954791,
+        "lcp": 5574,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YP_T",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YP_T"
+    },
+    {
+        "id": "230917_8E_S",
+        "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
+        "timestamp": 1694954649,
+        "lcp": 9047,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_8E_S",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_8E_S"
+    },
+    {
+        "id": "230917_E0_R",
+        "url": "https://www.bootbarn.com/clearance.html",
+        "timestamp": 1694954481,
+        "lcp": 1593,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E0_R",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_E0_R"
+    },
+    {
+        "id": "230917_K5_Q",
+        "url": "https://www.bootbarn.com/clearance.html",
+        "timestamp": 1694954331,
+        "lcp": 1700,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K5_Q",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K5_Q"
+    },
+    {
+        "id": "230917_YK_P",
+        "url": "https://www.bootbarn.com/work.html",
+        "timestamp": 1694954180,
+        "lcp": 2251,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YK_P",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_YK_P"
+    },
+    {
+        "id": "230917_F6_N",
+        "url": "https://www.bootbarn.com/work.html",
+        "timestamp": 1694954032,
+        "lcp": 4954,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_F6_N",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_F6_N"
+    },
+    {
+        "id": "230917_FG_M",
+        "url": "https://www.bootbarn.com/app.html",
+        "timestamp": 1694953887,
+        "lcp": 1821,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FG_M",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_FG_M"
+    },
+    {
+        "id": "230917_TA_K",
+        "url": "https://www.bootbarn.com/app.html",
+        "timestamp": 1694953767,
+        "lcp": 2203,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_K",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TA_K"
+    },
+    {
+        "id": "230917_1K_J",
+        "url": "https://www.bootbarn.com/idyllwind.html",
+        "timestamp": 1694953638,
+        "lcp": 14623,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_1K_J",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_1K_J"
+    },
+    {
+        "id": "230917_7M_H",
+        "url": "https://www.bootbarn.com/idyllwind.html",
+        "timestamp": 1694953427,
+        "lcp": 11630,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7M_H",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_7M_H"
+    },
+    {
+        "id": "230917_ZN_G",
+        "url": "https://www.bootbarn.com/cody_james.html",
+        "timestamp": 1694953215,
+        "lcp": 3244,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZN_G",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_ZN_G"
+    },
+    {
+        "id": "230917_79_F",
+        "url": "https://www.bootbarn.com/cody_james.html",
+        "timestamp": 1694953096,
+        "lcp": 2693,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_79_F",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_79_F"
+    },
+    {
+        "id": "230917_WZ_E",
+        "url": "https://www.bootbarn.com/blog/work",
+        "timestamp": 1694952968,
+        "lcp": 2165,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WZ_E",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_WZ_E"
+    },
+    {
+        "id": "230917_BM_D",
+        "url": "https://www.bootbarn.com/blog/work",
+        "timestamp": 1694952851,
+        "lcp": 3159,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_BM_D",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_BM_D"
+    },
+    {
+        "id": "230917_Y9_C",
+        "url": "https://www.bootbarn.com/nhsra.html",
+        "timestamp": 1694952718,
+        "lcp": 1823,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_Y9_C",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_Y9_C"
+    },
+    {
+        "id": "230917_DH_B",
+        "url": "https://www.bootbarn.com/nhsra.html",
+        "timestamp": 1694952598,
+        "lcp": 1910,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_DH_B",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_DH_B"
+    },
+    {
+        "id": "230917_W3_A",
+        "url": "https://www.bootbarn.com/giftcards.html",
+        "timestamp": 1694952477,
+        "lcp": 1835,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W3_A",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_W3_A"
+    },
+    {
+        "id": "230917_TM_9",
+        "url": "https://www.bootbarn.com/giftcards.html",
+        "timestamp": 1694952351,
+        "lcp": 2107,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TM_9",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_TM_9"
+    },
+    {
+        "id": "230917_K7_8",
+        "url": "https://www.bootbarn.com/login",
+        "timestamp": 1694952231,
+        "lcp": 1958,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K7_8",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_K7_8"
+    },
+    {
+        "id": "230917_6Q_7",
+        "url": "https://www.bootbarn.com/login",
+        "timestamp": 1694952112,
+        "lcp": 1660,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Q_7",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_6Q_7"
+    },
+    {
+        "id": "230917_16_6",
+        "url": "https://www.bootbarn.com",
+        "timestamp": 1694952008,
+        "lcp": 2815,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_16_6",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_16_6"
+    },
+    {
+        "id": "230917_CC_5",
+        "url": "https://www.bootbarn.com",
+        "timestamp": 1694951843,
+        "lcp": 9078,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CC_5",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_CC_5"
+    },
+    {
+        "id": "230917_X0_4",
+        "url": "https://www.viasat.com",
+        "timestamp": 1694951681,
+        "lcp": 2480,
+        "origin": "https://www.viasat.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X0_4",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X0_4"
+    },
+    {
+        "id": "230917_94_3",
+        "url": "https://www.nike.com",
+        "timestamp": 1694951608,
+        "lcp": 3559,
+        "origin": "https://www.nike.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_94_3",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_94_3"
+    },
+    {
+        "id": "230917_X6_2",
+        "url": "https://www.nike.com",
+        "timestamp": 1694951524,
+        "lcp": 3827,
+        "origin": "https://www.nike.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X6_2",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_X6_2"
+    },
+    {
+        "id": "230916_25_4",
+        "url": "https://www.viasat.com",
+        "timestamp": 1694850622,
+        "lcp": 2679,
+        "origin": "https://www.viasat.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_25_4",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_25_4"
+    },
+    {
+        "id": "230916_2W_3",
+        "url": "https://www.viasat.com",
+        "timestamp": 1694850560,
+        "lcp": 2611,
+        "origin": "https://www.viasat.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_2W_3",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_2W_3"
+    },
+    {
+        "id": "230916_0M_2",
+        "url": "https://www.nike.com",
+        "timestamp": 1694850486,
+        "lcp": 13253,
+        "origin": "https://www.nike.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_0M_2",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_0M_2"
+    },
+    {
+        "id": "230916_04_1",
+        "url": "https://www.nike.com",
+        "timestamp": 1694850400,
+        "lcp": 11749,
+        "origin": "https://www.nike.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_04_1",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230916_04_1"
+    }
+]
