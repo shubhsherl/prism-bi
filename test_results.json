@@ -1,5 +1,15 @@
 [
     {
+        "id": "230917_07_2H",
+        "url": "https://www.lowes.com/b/lowesbrands",
+        "timestamp": 1694969603,
+        "lcp": 1148,
+        "origin": "https://www.lowes.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_07_2H",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230917_07_2H",
+        "label": "monitor.hints.lowes.blowesbrands"
+    },
+    {
         "id": "230917_GJ_2G",
         "url": "https://www.lowes.com/b/lowesbrands",
         "timestamp": 1694969426,
