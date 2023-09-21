@@ -1,5 +1,155 @@
 [
     {
+        "id": "230921_A3_F",
+        "url": "https://www.bootbarn.com/app.html",
+        "timestamp": 1695284132,
+        "lcp": 2029,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_A3_F",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_A3_F",
+        "label": "monitor.nohints.bootbarn.app.html"
+    },
+    {
+        "id": "230921_E7_E",
+        "url": "https://www.bootbarn.com/idyllwind.html",
+        "timestamp": 1695283977,
+        "lcp": 5554,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_E7_E",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_E7_E",
+        "label": "monitor.hints.bootbarn.idyllwind.html"
+    },
+    {
+        "id": "230921_4T_D",
+        "url": "https://www.bootbarn.com/idyllwind.html",
+        "timestamp": 1695283767,
+        "lcp": 6176,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_4T_D",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_4T_D",
+        "label": "monitor.nohints.bootbarn.idyllwind.html"
+    },
+    {
+        "id": "230921_4K_C",
+        "url": "https://www.bootbarn.com/cody_james.html",
+        "timestamp": 1695283542,
+        "lcp": 2476,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_4K_C",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_4K_C",
+        "label": "monitor.hints.bootbarn.cody_james.html"
+    },
+    {
+        "id": "230921_8S_B",
+        "url": "https://www.bootbarn.com/cody_james.html",
+        "timestamp": 1695283395,
+        "lcp": 2428,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_8S_B",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_8S_B",
+        "label": "monitor.nohints.bootbarn.cody_james.html"
+    },
+    {
+        "id": "230921_9Z_A",
+        "url": "https://www.bootbarn.com/blog/work",
+        "timestamp": 1695283242,
+        "lcp": 2130,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_9Z_A",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_9Z_A",
+        "label": "monitor.hints.bootbarn.blogwork"
+    },
+    {
+        "id": "230921_5Q_9",
+        "url": "https://www.bootbarn.com/blog/work",
+        "timestamp": 1695283115,
+        "lcp": 2373,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_5Q_9",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_5Q_9",
+        "label": "monitor.nohints.bootbarn.blogwork"
+    },
+    {
+        "id": "230921_FE_8",
+        "url": "https://www.bootbarn.com/nhsra.html",
+        "timestamp": 1695282985,
+        "lcp": 1621,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_FE_8",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_FE_8",
+        "label": "monitor.hints.bootbarn.nhsra.html"
+    },
+    {
+        "id": "230921_RM_7",
+        "url": "https://www.bootbarn.com/nhsra.html",
+        "timestamp": 1695282864,
+        "lcp": 2010,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_RM_7",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_RM_7",
+        "label": "monitor.nohints.bootbarn.nhsra.html"
+    },
+    {
+        "id": "230921_SQ_6",
+        "url": "https://www.bootbarn.com/giftcards.html",
+        "timestamp": 1695282744,
+        "lcp": 2111,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_SQ_6",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_SQ_6",
+        "label": "monitor.hints.bootbarn.giftcards.html"
+    },
+    {
+        "id": "230921_Q5_5",
+        "url": "https://www.bootbarn.com/giftcards.html",
+        "timestamp": 1695282630,
+        "lcp": 2274,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_Q5_5",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_Q5_5",
+        "label": "monitor.nohints.bootbarn.giftcards.html"
+    },
+    {
+        "id": "230921_7Y_4",
+        "url": "https://www.bootbarn.com/login",
+        "timestamp": 1695282504,
+        "lcp": 1540,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_7Y_4",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_7Y_4",
+        "label": "monitor.hints.bootbarn.login"
+    },
+    {
+        "id": "230921_QB_3",
+        "url": "https://www.bootbarn.com/login",
+        "timestamp": 1695282383,
+        "lcp": 1677,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_QB_3",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_QB_3",
+        "label": "monitor.nohints.bootbarn.login"
+    },
+    {
+        "id": "230921_5M_2",
+        "url": "https://www.bootbarn.com",
+        "timestamp": 1695282246,
+        "lcp": 2949,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_5M_2",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_5M_2",
+        "label": "monitor.hints.bootbarn"
+    },
+    {
+        "id": "230921_0V_1",
+        "url": "https://www.bootbarn.com",
+        "timestamp": 1695282087,
+        "lcp": 5876,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_0V_1",
+        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230921_0V_1",
+        "label": "monitor.nohints.bootbarn"
+    },
+    {
         "id": "230920_XP_20",
         "url": "https://www.lowes.com/b/lowesbrands",
         "timestamp": 1695211409,
@@ -398,155 +548,5 @@
         "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_W9_Q",
         "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_W9_Q",
         "label": "monitor.nohints.homedepot"
-    },
-    {
-        "id": "230920_CC_P",
-        "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
-        "timestamp": 1695203880,
-        "lcp": 7595,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_CC_P",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_CC_P",
-        "label": "monitor.hints.bootbarn.brandswolverinewolverine"
-    },
-    {
-        "id": "230920_DB_N",
-        "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
-        "timestamp": 1695203694,
-        "lcp": 8545,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_DB_N",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_DB_N",
-        "label": "monitor.nohints.bootbarn.brandswolverinewolverine"
-    },
-    {
-        "id": "230920_6K_M",
-        "url": "https://www.bootbarn.com/clearance.html",
-        "timestamp": 1695203502,
-        "lcp": 2124,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_6K_M",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_6K_M",
-        "label": "monitor.hints.bootbarn.clearance.html"
-    },
-    {
-        "id": "230920_84_K",
-        "url": "https://www.bootbarn.com/clearance.html",
-        "timestamp": 1695203319,
-        "lcp": 1813,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_84_K",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_84_K",
-        "label": "monitor.nohints.bootbarn.clearance.html"
-    },
-    {
-        "id": "230920_GW_J",
-        "url": "https://www.bootbarn.com/work.html",
-        "timestamp": 1695203146,
-        "lcp": 2907,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_GW_J",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_GW_J",
-        "label": "monitor.hints.bootbarn.work.html"
-    },
-    {
-        "id": "230920_20_H",
-        "url": "https://www.bootbarn.com/work.html",
-        "timestamp": 1695202972,
-        "lcp": 2648,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_20_H",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_20_H",
-        "label": "monitor.nohints.bootbarn.work.html"
-    },
-    {
-        "id": "230920_ZB_G",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695202823,
-        "lcp": 2199,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_ZB_G",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_ZB_G",
-        "label": "monitor.hints.bootbarn.app.html"
-    },
-    {
-        "id": "230920_M5_F",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695202664,
-        "lcp": 2078,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_M5_F",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_M5_F",
-        "label": "monitor.nohints.bootbarn.app.html"
-    },
-    {
-        "id": "230920_1V_E",
-        "url": "https://www.bootbarn.com/idyllwind.html",
-        "timestamp": 1695202517,
-        "lcp": 7087,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_1V_E",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_1V_E",
-        "label": "monitor.hints.bootbarn.idyllwind.html"
-    },
-    {
-        "id": "230920_ZE_D",
-        "url": "https://www.bootbarn.com/idyllwind.html",
-        "timestamp": 1695202300,
-        "lcp": 5587,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_ZE_D",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_ZE_D",
-        "label": "monitor.nohints.bootbarn.idyllwind.html"
-    },
-    {
-        "id": "230920_JJ_C",
-        "url": "https://www.bootbarn.com/cody_james.html",
-        "timestamp": 1695202083,
-        "lcp": 2413,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_JJ_C",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_JJ_C",
-        "label": "monitor.hints.bootbarn.cody_james.html"
-    },
-    {
-        "id": "230920_06_B",
-        "url": "https://www.bootbarn.com/cody_james.html",
-        "timestamp": 1695201937,
-        "lcp": 2551,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_06_B",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_06_B",
-        "label": "monitor.nohints.bootbarn.cody_james.html"
-    },
-    {
-        "id": "230920_W8_A",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695201781,
-        "lcp": 1992,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_W8_A",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_W8_A",
-        "label": "monitor.hints.bootbarn.blogwork"
-    },
-    {
-        "id": "230920_6Q_9",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695201633,
-        "lcp": 2799,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_6Q_9",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_6Q_9",
-        "label": "monitor.nohints.bootbarn.blogwork"
-    },
-    {
-        "id": "230920_K1_8",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695201499,
-        "lcp": 1849,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_K1_8",
-        "lighthouse_url": "http://ec2-3-89-56-111.compute-1.amazonaws.com:8000/result/230920_K1_8",
-        "label": "monitor.hints.bootbarn.nhsra.html"
     }
 ]
