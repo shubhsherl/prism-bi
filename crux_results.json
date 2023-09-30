@@ -1,209 +1,344 @@
 [
     {
+        "url": "https://tv.apple.com",
+        "lcp": {
+            "p75": 3134,
+            "good": 59.44904642650847,
+            "average": 26.52668079368184,
+            "bad": 14.024272779811739
+        }
+    },
+    {
+        "url": "https://tv.apple.com/gb",
+        "lcp": {
+            "p75": 3097,
+            "good": 63.288743059061545,
+            "average": 24.318525996971402,
+            "bad": 12.392730943967777
+        }
+    },
+    {
+        "url": "https://support.apple.com",
+        "lcp": {
+            "p75": 1376,
+            "good": 90.90447154471605,
+            "average": 5.411585365853696,
+            "bad": 3.683943089430929
+        }
+    },
+    {
+        "url": "https://support.apple.com/repair",
+        "lcp": {
+            "p75": 1033,
+            "good": 95.01977261492863,
+            "average": 3.0153237765694616,
+            "bad": 1.9649036085022429
+        }
+    },
+    {
+        "url": "https://support.apple.com/billing",
+        "lcp": {
+            "p75": 1092,
+            "good": 95.48702519744342,
+            "average": 2.9146295599849803,
+            "bad": 1.5983452425724118
+        }
+    },
+    {
+        "url": "https://developer.apple.com",
+        "lcp": {
+            "p75": 2007,
+            "good": 81.42675564029273,
+            "average": 9.760618578540459,
+            "bad": 8.81262578116724
+        }
+    },
+    {
+        "url": "https://amazon.com",
+        "lcp": {
+            "p75": 1207,
+            "good": 93.44934493449321,
+            "average": 4.980498049804968,
+            "bad": 1.5701570157015659
+        }
+    },
+    {
+        "url": "https://music.amazon.com",
+        "lcp": {
+            "p75": 5651,
+            "good": 16.103661681278947,
+            "average": 32.12996389891685,
+            "bad": 51.766374419802474
+        }
+    },
+    {
+        "url": "https://sell.amazon.com",
+        "lcp": {
+            "p75": 2213,
+            "good": 79.36831875607486,
+            "average": 12.293488824101221,
+            "bad": 8.33819241982529
+        }
+    },
+    {
+        "url": "https://sellercentral.amazon.com",
+        "lcp": {
+            "p75": 1888,
+            "good": 86.01081971069048,
+            "average": 8.414677172762568,
+            "bad": 5.5745031165471595
+        }
+    },
+    {
+        "url": "https://aws.amazon.com",
+        "lcp": {
+            "p75": 3248,
+            "good": 61.08051547527208,
+            "average": 21.95726401586059,
+            "bad": 16.962220508866675
+        }
+    },
+    {
+        "url": "https://aws.amazon.com/startups",
+        "lcp": {
+            "p75": 3256,
+            "good": 64.29534726904879,
+            "average": 17.026298044504276,
+            "bad": 18.678354686446447
+        }
+    },
+    {
+        "url": "https://www.walmart.com",
+        "lcp": {
+            "p75": 1852,
+            "good": 88.5222672064778,
+            "average": 7.955465587044537,
+            "bad": 3.52226720647772
+        }
+    },
+    {
+        "url": "https://www.walmart.com/help",
+        "lcp": {
+            "p75": 1642,
+            "good": 90.43309631544972,
+            "average": 5.559146735617354,
+            "bad": 4.007756948933436
+        }
+    },
+    {
+        "url": "https://www.walmart.com/services",
+        "lcp": {
+            "p75": 1857,
+            "good": 88.78631961259067,
+            "average": 6.461864406779651,
+            "bad": 4.75181598062953
+        }
+    },
+    {
+        "url": "https://www.walmart.com/lists",
+        "lcp": {
+            "p75": 1865,
+            "good": 86.37564082647103,
+            "average": 7.829734348298813,
+            "bad": 5.794624825229125
+        }
+    },
+    {
+        "url": "https://www.walmart.com/store-directory",
+        "lcp": {
+            "p75": 1676,
+            "good": 92.43719935863139,
+            "average": 5.264564404061976,
+            "bad": 2.298236237306268
+        }
+    },
+    {
+        "url": "https://photos3.walmart.com",
+        "lcp": {
+            "p75": 2121,
+            "good": 81.81260229132522,
+            "average": 11.23158756137473,
+            "bad": 6.955810147299521
+        }
+    },
+    {
+        "url": "https://inhome.walmart.com",
+        "lcp": {
+            "p75": 4657,
+            "good": 44.08284023668647,
+            "average": 20.53254437869826,
+            "bad": 35.384615384615635
+        }
+    },
+    {
+        "url": "https://drive4spark.walmart.com",
+        "lcp": {
+            "p75": 3046,
+            "good": 64.98388829215848,
+            "average": 21.374865735767834,
+            "bad": 13.641245972073015
+        }
+    },
+    {
+        "url": "https://drive4spark.walmart.com/signup",
+        "lcp": {
+            "p75": 2565,
+            "good": 75.47169811320705,
+            "average": 9.11949685534585,
+            "bad": 15.408805031446565
+        }
+    },
+    {
+        "url": "https://marketplace.walmart.com",
+        "lcp": {
+            "p75": 5048,
+            "good": 42.178502879080575,
+            "average": 22.984644913628664,
+            "bad": 34.83685220729585
+        }
+    },
+    {
+        "url": "https://developer.walmart.com",
+        "lcp": {
+            "p75": 4717,
+            "good": 65.86866471735003,
+            "average": 7.584064327485509,
+            "bad": 26.54727095516627
+        }
+    },
+    {
+        "url": "https://corporate.walmart.com",
+        "lcp": {
+            "p75": 5354,
+            "good": 20.948683322080342,
+            "average": 26.789331532748996,
+            "bad": 52.26198514517396
+        }
+    },
+    {
+        "url": "https://corporate.walmart.com/recalls",
+        "lcp": {
+            "p75": 5225,
+            "good": 19.761904761904805,
+            "average": 17.8571428571429,
+            "bad": 62.38095238095303
+        }
+    },
+    {
+        "url": "https://careers.walmart.com",
+        "lcp": {
+            "p75": 2358,
+            "good": 78.11102831594873,
+            "average": 13.394187779434086,
+            "bad": 8.49478390462032
+        }
+    },
+    {
+        "url": "https://careers.walmart.com/faqs",
+        "lcp": {
+            "p75": 1278,
+            "good": 94.2270531400967,
+            "average": 3.7922705314009706,
+            "bad": 1.980676328502425
+        }
+    },
+    {
+        "url": "https://careers.walmart.com/technology",
+        "lcp": {
+            "p75": 1704,
+            "good": 86.0032526936371,
+            "average": 8.284204106525731,
+            "bad": 5.712543199837426
+        }
+    },
+    {
+        "url": "https://careers.walmart.com/healthcare",
+        "lcp": {
+            "p75": 1222,
+            "good": 94.3579234972679,
+            "average": 1.4344262295081986,
+            "bad": 4.207650273224048
+        }
+    },
+    {
+        "url": "https://careers.walmart.com/values",
+        "lcp": {
+            "p75": 1499,
+            "good": 91.031692515172,
+            "average": 6.36547538772758,
+            "bad": 2.6028320971004746
+        }
+    },
+    {
+        "url": "https://careers.walmart.com/history",
+        "lcp": {
+            "p75": 2288,
+            "good": 81.87124463519316,
+            "average": 13.751072961373398,
+            "bad": 4.3776824034334725
+        }
+    },
+    {
         "url": "https://www.bootbarn.com",
         "lcp": {
-            "p75": 3200,
-            "good": 63.18335752297967,
-            "average": 22.593130140299767,
-            "bad": 14.223512336719901
+            "p75": 3162,
+            "good": 63.86255924170589,
+            "average": 22.39336492890985,
+            "bad": 13.744075829383897
         }
     },
     {
         "url": "https://www.bootbarn.com/login",
         "lcp": {
-            "p75": 1358,
-            "good": 90.70817490494429,
-            "average": 6.5589353612168235,
-            "bad": 2.7328897338402887
+            "p75": 1342,
+            "good": 91.02325581395542,
+            "average": 6.139534883721061,
+            "bad": 2.8372093023255958
         }
     },
     {
         "url": "https://www.bootbarn.com/giftcards.html",
         "lcp": {
-            "p75": 1261,
-            "good": 92.94142887792324,
-            "average": 5.320746620896806,
-            "bad": 1.7378245011800049
+            "p75": 1304,
+            "good": 92.80337591240884,
+            "average": 5.371806569343071,
+            "bad": 1.8248175182481767
         }
     },
     {
         "url": "https://www.bootbarn.com/cody_james.html",
         "lcp": {
-            "p75": 2351,
-            "good": 78.48993288590577,
-            "average": 15.906040268456326,
-            "bad": 5.604026845637548
+            "p75": 2307,
+            "good": 79.13169786959305,
+            "average": 15.897353131052236,
+            "bad": 4.970948999354407
         }
     },
     {
         "url": "https://www.bootbarn.com/clearance.html",
         "lcp": {
-            "p75": 2421,
-            "good": 78.5641025641019,
-            "average": 12.102564102564003,
-            "bad": 9.333333333333089
+            "p75": 2412,
+            "good": 77.30392156862638,
+            "average": 11.519607843137097,
+            "bad": 11.176470588235224
         }
     },
     {
-        "url": "https://www.homedepot.com",
+        "url": "https://www.bootbarn.com/fr-work.html",
         "lcp": {
-            "p75": 3211,
-            "good": 62.68043526537907,
-            "average": 21.196979791250417,
-            "bad": 16.12258494337134
+            "p75": 1237,
+            "good": 90.9477521263669,
+            "average": 6.136087484811661,
+            "bad": 2.9161603888213827
         }
     },
     {
-        "url": "https://www.homedepot.com/l/",
+        "url": "https://www.bootbarn.com/brands/idyllwind/idyllwind/",
         "lcp": {
-            "p75": 5280,
-            "good": 35.43761638733808,
-            "average": 26.68528864059669,
-            "bad": 37.87709497206818
-        }
-    },
-    {
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "lcp": {
-            "p75": 2360,
-            "good": 78.83730656629051,
-            "average": 15.55834378920959,
-            "bad": 5.604349644500198
-        }
-    },
-    {
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "lcp": {
-            "p75": 2911,
-            "good": 67.98013245033093,
-            "average": 18.377483443708556,
-            "bad": 13.642384105960218
-        }
-    },
-    {
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "lcp": {
-            "p75": 2498,
-            "good": 75.63585607940551,
-            "average": 14.87282878411931,
-            "bad": 9.491315136476581
-        }
-    },
-    {
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "lcp": {
-            "p75": 2019,
-            "good": 85.37940379403767,
-            "average": 9.471544715447127,
-            "bad": 5.1490514905148945
-        }
-    },
-    {
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "lcp": {
-            "p75": 1593,
-            "good": 91.43179255918815,
-            "average": 6.200676437429527,
-            "bad": 2.3675310033821915
-        }
-    },
-    {
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "lcp": {
-            "p75": 1694,
-            "good": 89.72991375397218,
-            "average": 7.387653200181597,
-            "bad": 2.8824330458465686
-        }
-    },
-    {
-        "url": "https://www.lowes.com",
-        "lcp": {
-            "p75": 2400,
-            "good": 77.959830866808,
-            "average": 14.878435517970479,
-            "bad": 7.161733615221981
-        }
-    },
-    {
-        "url": "https://www.lowes.com/b/flexseal",
-        "lcp": {
-            "p75": 2519,
-            "good": 74.26749396759746,
-            "average": 14.59841433988282,
-            "bad": 11.134091692519824
-        }
-    },
-    {
-        "url": "https://www.lowes.com/b/pella",
-        "lcp": {
-            "p75": 2246,
-            "good": 79.75659924580056,
-            "average": 15.752485430236563,
-            "bad": 4.490915323962971
-        }
-    },
-    {
-        "url": "https://www.lowes.com/b/greenworks",
-        "lcp": {
-            "p75": 2148,
-            "good": 81.91964285714283,
-            "average": 12.680697278911559,
-            "bad": 5.399659863945578
-        }
-    },
-    {
-        "url": "https://www.lowes.com/c/Kitchen",
-        "lcp": {
-            "p75": 2260,
-            "good": 79.83271375464712,
-            "average": 14.275092936803027,
-            "bad": 5.892193308550242
-        }
-    },
-    {
-        "url": "https://www.lowes.com/c/Plumbing",
-        "lcp": {
-            "p75": 4332,
-            "good": 46.69701460935926,
-            "average": 25.07939868727547,
-            "bad": 28.223586703367143
-        }
-    },
-    {
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "lcp": {
-            "p75": 2112,
-            "good": 81.86332936034965,
-            "average": 13.170441001191907,
-            "bad": 4.966229638458483
-        }
-    },
-    {
-        "url": "https://www.lowes.com/b/craftsman",
-        "lcp": {
-            "p75": 2501,
-            "good": 74.15960995637653,
-            "average": 18.93764434180135,
-            "bad": 6.902745701821889
-        }
-    },
-    {
-        "url": "https://www.lowes.com/c/Departments",
-        "lcp": {
-            "p75": 2251,
-            "good": 81.61620133700389,
-            "average": 13.035784506488454,
-            "bad": 5.348014156508082
-        }
-    },
-    {
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "lcp": {
-            "p75": 2824,
-            "good": 67.98909751665593,
-            "average": 21.895820714718138,
-            "bad": 10.115081768624977
+            "p75": 5475,
+            "good": 39.35876174682145,
+            "average": 18.131564400221123,
+            "bad": 42.50967385295745
         }
     }
 ]
