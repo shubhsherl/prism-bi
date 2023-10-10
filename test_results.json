@@ -1,5 +1,635 @@
 [
     {
+        "id": "231009_CQ_BQ",
+        "url": "https://careers.bootbarn.com/login",
+        "timestamp": 1696821920,
+        "lcp": 3144,
+        "origin": "https://careers.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_CQ_BQ",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_CQ_BQ",
+        "label": "monitor.hints.careers-bootbarn.login"
+    },
+    {
+        "id": "231009_EP_BP",
+        "url": "https://careers.bootbarn.com/login",
+        "timestamp": 1696821829,
+        "lcp": 3352,
+        "origin": "https://careers.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_EP_BP",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_EP_BP",
+        "label": "monitor.nohints.careers-bootbarn.login"
+    },
+    {
+        "id": "231009_7A_BN",
+        "url": "https://www.bootbarn.com/womens-wonderwest.html",
+        "timestamp": 1696821802,
+        "lcp": 3537,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_7A_BN",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_7A_BN",
+        "label": "monitor.hints.bootbarn.womens-wonderwest.html"
+    },
+    {
+        "id": "231009_E2_BM",
+        "url": "https://careers.bootbarn.com",
+        "timestamp": 1696821789,
+        "lcp": 3492,
+        "origin": "https://careers.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_E2_BM",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_E2_BM",
+        "label": "monitor.hints.careers-bootbarn"
+    },
+    {
+        "id": "231009_G2_BK",
+        "url": "https://www.bootbarn.com/brands/idyllwind/idyllwind/",
+        "timestamp": 1696821825,
+        "lcp": 7925,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_G2_BK",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_G2_BK",
+        "label": "monitor.hints.bootbarn.brandsidyllwindidyllwind"
+    },
+    {
+        "id": "231009_MN_BJ",
+        "url": "https://www.bootbarn.com/brands/stanley/stanley/",
+        "timestamp": 1696821757,
+        "lcp": 3554,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_MN_BJ",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_MN_BJ",
+        "label": "monitor.hints.bootbarn.brandsstanleystanley"
+    },
+    {
+        "id": "231009_G0_BH",
+        "url": "https://www.bootbarn.com/womens-coats.html",
+        "timestamp": 1696821735,
+        "lcp": 3240,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_G0_BH",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_G0_BH",
+        "label": "monitor.hints.bootbarn.womens-coats.html"
+    },
+    {
+        "id": "231009_BW_BG",
+        "url": "https://careers.bootbarn.com",
+        "timestamp": 1696821653,
+        "lcp": 3402,
+        "origin": "https://careers.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_BW_BG",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_BW_BG",
+        "label": "monitor.nohints.careers-bootbarn"
+    },
+    {
+        "id": "231009_Q1_BF",
+        "url": "https://www.bootbarn.com/womens-wonderwest.html",
+        "timestamp": 1696821646,
+        "lcp": 3557,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_Q1_BF",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_Q1_BF",
+        "label": "monitor.nohints.bootbarn.womens-wonderwest.html"
+    },
+    {
+        "id": "231009_GR_BE",
+        "url": "https://www.bootbarn.com/brands/stanley/stanley/",
+        "timestamp": 1696821638,
+        "lcp": 4520,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_GR_BE",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_GR_BE",
+        "label": "monitor.nohints.bootbarn.brandsstanleystanley"
+    },
+    {
+        "id": "231009_YN_BD",
+        "url": "https://www.bootbarn.com/womens-coats.html",
+        "timestamp": 1696821610,
+        "lcp": 3497,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_YN_BD",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_YN_BD",
+        "label": "monitor.nohints.bootbarn.womens-coats.html"
+    },
+    {
+        "id": "231009_8Y_BC",
+        "url": "https://www.bootbarn.com/brands/idyllwind/idyllwind/",
+        "timestamp": 1696821632,
+        "lcp": 8998,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_8Y_BC",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_8Y_BC",
+        "label": "monitor.nohints.bootbarn.brandsidyllwindidyllwind"
+    },
+    {
+        "id": "231009_A2_BB",
+        "url": "https://www.bootbarn.com/brands/heydude/heydude/",
+        "timestamp": 1696821509,
+        "lcp": 3408,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_A2_BB",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_A2_BB",
+        "label": "monitor.hints.bootbarn.brandsheydudeheydude"
+    },
+    {
+        "id": "231009_53_BA",
+        "url": "https://www.bootbarn.com/brands/belleville/belleville/",
+        "timestamp": 1696821525,
+        "lcp": 3574,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_53_BA",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_53_BA",
+        "label": "monitor.hints.bootbarn.brandsbellevillebelleville"
+    },
+    {
+        "id": "231009_1S_B9",
+        "url": "https://www.bootbarn.com/mens-coats.html",
+        "timestamp": 1696821475,
+        "lcp": 3052,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_1S_B9",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_1S_B9",
+        "label": "monitor.hints.bootbarn.mens-coats.html"
+    },
+    {
+        "id": "231009_VE_B8",
+        "url": "https://www.bootbarn.com/fr-work.html",
+        "timestamp": 1696821491,
+        "lcp": 3766,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_VE_B8",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_VE_B8",
+        "label": "monitor.hints.bootbarn.fr-work.html"
+    },
+    {
+        "id": "231009_15_B7",
+        "url": "https://www.bootbarn.com/brands/heydude/heydude/",
+        "timestamp": 1696821383,
+        "lcp": 4492,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_15_B7",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_15_B7",
+        "label": "monitor.nohints.bootbarn.brandsheydudeheydude"
+    },
+    {
+        "id": "231009_59_B6",
+        "url": "https://www.bootbarn.com/mens-coats.html",
+        "timestamp": 1696821354,
+        "lcp": 3070,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_59_B6",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_59_B6",
+        "label": "monitor.nohints.bootbarn.mens-coats.html"
+    },
+    {
+        "id": "231009_7K_B5",
+        "url": "https://www.bootbarn.com/brands/laredo/laredo/",
+        "timestamp": 1696821402,
+        "lcp": 7958,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_7K_B5",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_7K_B5",
+        "label": "monitor.hints.bootbarn.brandslaredolaredo"
+    },
+    {
+        "id": "231009_C4_B4",
+        "url": "https://www.bootbarn.com/fr-work.html",
+        "timestamp": 1696821348,
+        "lcp": 3561,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_C4_B4",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_C4_B4",
+        "label": "monitor.nohints.bootbarn.fr-work.html"
+    },
+    {
+        "id": "231009_91_B3",
+        "url": "https://www.bootbarn.com/brands/belleville/belleville/",
+        "timestamp": 1696821364,
+        "lcp": 10742,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_91_B3",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_91_B3",
+        "label": "monitor.nohints.bootbarn.brandsbellevillebelleville"
+    },
+    {
+        "id": "231009_03_B2",
+        "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
+        "timestamp": 1696821268,
+        "lcp": 3619,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_03_B2",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_03_B2",
+        "label": "monitor.hints.bootbarn.brandswolverinewolverine"
+    },
+    {
+        "id": "231009_4D_B1",
+        "url": "https://www.bootbarn.com/brands/laredo/laredo/",
+        "timestamp": 1696821227,
+        "lcp": 7364,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_4D_B1",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_4D_B1",
+        "label": "monitor.nohints.bootbarn.brandslaredolaredo"
+    },
+    {
+        "id": "231009_WC_B0",
+        "url": "https://www.bootbarn.com/idyllwind.html",
+        "timestamp": 1696821237,
+        "lcp": 6158,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_WC_B0",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_WC_B0",
+        "label": "monitor.hints.bootbarn.idyllwind.html"
+    },
+    {
+        "id": "231009_NC_AZ",
+        "url": "https://www.bootbarn.com/clearance.html",
+        "timestamp": 1696821198,
+        "lcp": 3377,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_NC_AZ",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_NC_AZ",
+        "label": "monitor.hints.bootbarn.clearance.html"
+    },
+    {
+        "id": "231009_WT_AY",
+        "url": "https://www.bootbarn.com/work.html",
+        "timestamp": 1696821195,
+        "lcp": 3234,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_WT_AY",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_WT_AY",
+        "label": "monitor.hints.bootbarn.work.html"
+    },
+    {
+        "id": "231009_E3_AX",
+        "url": "https://www.bootbarn.com/cody_james.html",
+        "timestamp": 1696821085,
+        "lcp": 3289,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_E3_AX",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_E3_AX",
+        "label": "monitor.hints.bootbarn.cody_james.html"
+    },
+    {
+        "id": "231009_P8_AW",
+        "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
+        "timestamp": 1696821093,
+        "lcp": 3848,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_P8_AW",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_P8_AW",
+        "label": "monitor.nohints.bootbarn.brandswolverinewolverine"
+    },
+    {
+        "id": "231009_ZG_AV",
+        "url": "https://www.bootbarn.com/clearance.html",
+        "timestamp": 1696821051,
+        "lcp": 3324,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_ZG_AV",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_ZG_AV",
+        "label": "monitor.nohints.bootbarn.clearance.html"
+    },
+    {
+        "id": "231009_EX_AT",
+        "url": "https://www.bootbarn.com/work.html",
+        "timestamp": 1696821033,
+        "lcp": 3304,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_EX_AT",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_EX_AT",
+        "label": "monitor.nohints.bootbarn.work.html"
+    },
+    {
+        "id": "231009_GK_AS",
+        "url": "https://www.bootbarn.com/idyllwind.html",
+        "timestamp": 1696821056,
+        "lcp": 7571,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_GK_AS",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_GK_AS",
+        "label": "monitor.nohints.bootbarn.idyllwind.html"
+    },
+    {
+        "id": "231009_K0_AR",
+        "url": "https://www.bootbarn.com/cody_james.html",
+        "timestamp": 1696820952,
+        "lcp": 3060,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_K0_AR",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_K0_AR",
+        "label": "monitor.nohints.bootbarn.cody_james.html"
+    },
+    {
+        "id": "231009_T1_AQ",
+        "url": "https://www.bootbarn.com/blog/country",
+        "timestamp": 1696820934,
+        "lcp": 3082,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_T1_AQ",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_T1_AQ",
+        "label": "monitor.hints.bootbarn.blogcountry"
+    },
+    {
+        "id": "231009_TZ_AP",
+        "url": "https://www.bootbarn.com/giftcards.html",
+        "timestamp": 1696820895,
+        "lcp": 3308,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_TZ_AP",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_TZ_AP",
+        "label": "monitor.hints.bootbarn.giftcards.html"
+    },
+    {
+        "id": "231009_VA_AN",
+        "url": "https://www.bootbarn.com/login",
+        "timestamp": 1696820880,
+        "lcp": 3199,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_VA_AN",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_VA_AN",
+        "label": "monitor.hints.bootbarn.login"
+    },
+    {
+        "id": "231009_6E_AM",
+        "url": "https://www.bootbarn.com",
+        "timestamp": 1696820868,
+        "lcp": 3507,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_6E_AM",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_6E_AM",
+        "label": "monitor.hints.bootbarn"
+    },
+    {
+        "id": "231009_83_AK",
+        "url": "https://www.bootbarn.com/passwordreset",
+        "timestamp": 1696820822,
+        "lcp": 3487,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_83_AK",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_83_AK",
+        "label": "monitor.hints.bootbarn.passwordreset"
+    },
+    {
+        "id": "231009_KS_AJ",
+        "url": "https://www.bootbarn.com/blog/country",
+        "timestamp": 1696820811,
+        "lcp": 3420,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_KS_AJ",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_KS_AJ",
+        "label": "monitor.nohints.bootbarn.blogcountry"
+    },
+    {
+        "id": "231009_1S_AH",
+        "url": "https://www.bootbarn.com/giftcards.html",
+        "timestamp": 1696820767,
+        "lcp": 3395,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_1S_AH",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_1S_AH",
+        "label": "monitor.nohints.bootbarn.giftcards.html"
+    },
+    {
+        "id": "231009_N3_AG",
+        "url": "https://www.bootbarn.com/login",
+        "timestamp": 1696820762,
+        "lcp": 3264,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_N3_AG",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_N3_AG",
+        "label": "monitor.nohints.bootbarn.login"
+    },
+    {
+        "id": "231009_N1_AF",
+        "url": "https://www.bootbarn.com/passwordreset",
+        "timestamp": 1696820723,
+        "lcp": 3081,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_N1_AF",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_N1_AF",
+        "label": "monitor.nohints.bootbarn.passwordreset"
+    },
+    {
+        "id": "231009_1W_AE",
+        "url": "https://www.bootbarn.com",
+        "timestamp": 1696820719,
+        "lcp": 3901,
+        "origin": "https://www.bootbarn.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_1W_AE",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_1W_AE",
+        "label": "monitor.nohints.bootbarn"
+    },
+    {
+        "id": "231009_0H_AD",
+        "url": "https://careers.walmart.com/history",
+        "timestamp": 1696820652,
+        "lcp": 1383,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_0H_AD",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_0H_AD",
+        "label": "monitor.hints.careers-walmart.history"
+    },
+    {
+        "id": "231009_QY_AC",
+        "url": "https://careers.walmart.com/technology",
+        "timestamp": 1696820671,
+        "lcp": 3020,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_QY_AC",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_QY_AC",
+        "label": "monitor.hints.careers-walmart.technology"
+    },
+    {
+        "id": "231009_TM_AB",
+        "url": "https://careers.walmart.com/values",
+        "timestamp": 1696820650,
+        "lcp": 1581,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_TM_AB",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_TM_AB",
+        "label": "monitor.hints.careers-walmart.values"
+    },
+    {
+        "id": "231009_GR_AA",
+        "url": "https://careers.walmart.com/healthcare",
+        "timestamp": 1696820614,
+        "lcp": 1492,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_GR_AA",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_GR_AA",
+        "label": "monitor.hints.careers-walmart.healthcare"
+    },
+    {
+        "id": "231009_NX_A9",
+        "url": "https://careers.walmart.com/history",
+        "timestamp": 1696820563,
+        "lcp": 1619,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_NX_A9",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_NX_A9",
+        "label": "monitor.nohints.careers-walmart.history"
+    },
+    {
+        "id": "231009_DQ_A8",
+        "url": "https://careers.walmart.com/values",
+        "timestamp": 1696820555,
+        "lcp": 1784,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_DQ_A8",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_DQ_A8",
+        "label": "monitor.nohints.careers-walmart.values"
+    },
+    {
+        "id": "231009_38_A7",
+        "url": "https://careers.walmart.com/healthcare",
+        "timestamp": 1696820530,
+        "lcp": 2229,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_38_A7",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_38_A7",
+        "label": "monitor.nohints.careers-walmart.healthcare"
+    },
+    {
+        "id": "231009_8G_A6",
+        "url": "https://careers.walmart.com/technology",
+        "timestamp": 1696820550,
+        "lcp": 3158,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_8G_A6",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_8G_A6",
+        "label": "monitor.nohints.careers-walmart.technology"
+    },
+    {
+        "id": "231009_F9_A5",
+        "url": "https://careers.walmart.com",
+        "timestamp": 1696820550,
+        "lcp": 1726,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_F9_A5",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_F9_A5",
+        "label": "monitor.hints.careers-walmart"
+    },
+    {
+        "id": "231009_JZ_A4",
+        "url": "https://careers.walmart.com/faqs",
+        "timestamp": 1696820461,
+        "lcp": 1565,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_JZ_A4",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_JZ_A4",
+        "label": "monitor.hints.careers-walmart.faqs"
+    },
+    {
+        "id": "231009_C8_A3",
+        "url": "https://corporate.walmart.com/recalls",
+        "timestamp": 1696820456,
+        "lcp": 4998,
+        "origin": "https://corporate.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_C8_A3",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_C8_A3",
+        "label": "monitor.hints.corporate-walmart.recalls"
+    },
+    {
+        "id": "231009_PT_A2",
+        "url": "https://corporate.walmart.com",
+        "timestamp": 1696820441,
+        "lcp": 4586,
+        "origin": "https://corporate.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_PT_A2",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_PT_A2",
+        "label": "monitor.hints.corporate-walmart"
+    },
+    {
+        "id": "231009_0H_A1",
+        "url": "https://careers.walmart.com/faqs",
+        "timestamp": 1696820366,
+        "lcp": 1633,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_0H_A1",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_0H_A1",
+        "label": "monitor.nohints.careers-walmart.faqs"
+    },
+    {
+        "id": "231009_X9_A0",
+        "url": "https://careers.walmart.com",
+        "timestamp": 1696820413,
+        "lcp": 1920,
+        "origin": "https://careers.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_X9_A0",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_X9_A0",
+        "label": "monitor.nohints.careers-walmart"
+    },
+    {
+        "id": "231009_NK_9Z",
+        "url": "https://marketplace.walmart.com",
+        "timestamp": 1696820440,
+        "lcp": 2838,
+        "origin": "https://marketplace.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_NK_9Z",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_NK_9Z",
+        "label": "monitor.hints.marketplace-walmart"
+    },
+    {
+        "id": "231009_7J_9Y",
+        "url": "https://www.apple.com/tr",
+        "timestamp": 1696820350,
+        "lcp": 1881,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_7J_9Y",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_7J_9Y",
+        "label": "monitor.nohints.apple.tr"
+    },
+    {
+        "id": "231009_AC_9X",
+        "url": "https://www.apple.com/cn",
+        "timestamp": 1696820351,
+        "lcp": 3580,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_AC_9X",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_AC_9X",
+        "label": "monitor.nohints.apple.cn"
+    },
+    {
+        "id": "231009_3P_9W",
+        "url": "https://www.apple.com/es",
+        "timestamp": 1696820299,
+        "lcp": 1782,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_3P_9W",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_3P_9W",
+        "label": "monitor.nohints.apple.es"
+    },
+    {
+        "id": "231009_93_9V",
+        "url": "https://www.apple.com/my",
+        "timestamp": 1696820287,
+        "lcp": 3952,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_93_9V",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_93_9V",
+        "label": "monitor.nohints.apple.my"
+    },
+    {
+        "id": "231009_TS_9T",
+        "url": "https://www.apple.com",
+        "timestamp": 1696820289,
+        "lcp": 2088,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_TS_9T",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_TS_9T",
+        "label": "monitor.nohints.apple"
+    },
+    {
+        "id": "231009_EG_9S",
+        "url": "https://corporate.walmart.com/recalls",
+        "timestamp": 1696820284,
+        "lcp": 4885,
+        "origin": "https://corporate.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_EG_9S",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_EG_9S",
+        "label": "monitor.nohints.corporate-walmart.recalls"
+    },
+    {
         "id": "231009_3W_9R",
         "url": "https://developer.walmart.com",
         "timestamp": 1696820223,
@@ -8,6 +638,16 @@
         "wpt_url": "http://52.204.137.156:8000/result/231009_3W_9R",
         "lighthouse_url": "http://52.204.137.156:8000/result/231009_3W_9R",
         "label": "monitor.hints.developer-walmart"
+    },
+    {
+        "id": "231009_2Z_9Q",
+        "url": "https://corporate.walmart.com",
+        "timestamp": 1696820281,
+        "lcp": 4751,
+        "origin": "https://corporate.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_2Z_9Q",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_2Z_9Q",
+        "label": "monitor.nohints.corporate-walmart"
     },
     {
         "id": "231009_YX_9P",
@@ -188,6 +828,16 @@
         "wpt_url": "http://52.204.137.156:8000/result/231009_VR_95",
         "lighthouse_url": "http://52.204.137.156:8000/result/231009_VR_95",
         "label": "monitor.nohints.walmart.services"
+    },
+    {
+        "id": "231009_SW_94",
+        "url": "https://www.walmart.com",
+        "timestamp": 1696820275,
+        "lcp": 2628,
+        "origin": "https://www.walmart.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231009_SW_94",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231009_SW_94",
+        "label": "monitor.hints.walmart"
     },
     {
         "id": "231009_TF_93",
@@ -26140,26 +26790,6 @@
         "label": "monitor.hints.music-amazon"
     },
     {
-        "id": "230930_BA_9P",
-        "url": "https://amazon.com/primesavings",
-        "timestamp": 1696078689,
-        "lcp": 5141,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_BA_9P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_BA_9P",
-        "label": "monitor.hints.amazon.primesavings"
-    },
-    {
-        "id": "230930_NC_9N",
-        "url": "https://amazon.com/amazonprime",
-        "timestamp": 1696078664,
-        "lcp": 2430,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_NC_9N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_NC_9N",
-        "label": "monitor.hints.amazon.amazonprime"
-    },
-    {
         "id": "230930_K9_9M",
         "url": "https://music.amazon.com",
         "timestamp": 1696078561,
@@ -26170,326 +26800,6 @@
         "label": "monitor.nohints.music-amazon"
     },
     {
-        "id": "230930_06_9K",
-        "url": "https://amazon.com/primesavings",
-        "timestamp": 1696078573,
-        "lcp": 4929,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_06_9K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_06_9K",
-        "label": "monitor.nohints.amazon.primesavings"
-    },
-    {
-        "id": "230930_A3_9J",
-        "url": "https://amazon.com/amazonprime",
-        "timestamp": 1696078514,
-        "lcp": 2335,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_A3_9J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_A3_9J",
-        "label": "monitor.nohints.amazon.amazonprime"
-    },
-    {
-        "id": "230930_RF_9H",
-        "url": "https://etsy.com/c/weddings",
-        "timestamp": 1696078431,
-        "lcp": 1993,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_RF_9H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_RF_9H",
-        "label": "monitor.hints.etsy.cweddings"
-    },
-    {
-        "id": "230930_SV_9G",
-        "url": "https://etsy.com/market/merkin_pubic_wig",
-        "timestamp": 1696078437,
-        "lcp": 1772,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SV_9G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SV_9G",
-        "label": "monitor.hints.etsy.marketmerkin_pubic_wig"
-    },
-    {
-        "id": "230930_29_9F",
-        "url": "https://amazon.com",
-        "timestamp": 1696078391,
-        "lcp": 1095,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_29_9F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_29_9F",
-        "label": "monitor.hints.amazon"
-    },
-    {
-        "id": "230930_ZD_9E",
-        "url": "https://amazon.com",
-        "timestamp": 1696078329,
-        "lcp": 1128,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_ZD_9E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_ZD_9E",
-        "label": "monitor.nohints.amazon"
-    },
-    {
-        "id": "230930_7Z_9C",
-        "url": "https://etsy.com/c/weddings",
-        "timestamp": 1696078322,
-        "lcp": 2470,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_7Z_9C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_7Z_9C",
-        "label": "monitor.nohints.etsy.cweddings"
-    },
-    {
-        "id": "230930_KZ_9B",
-        "url": "https://etsy.com/shop/AndradeArtworks",
-        "timestamp": 1696078271,
-        "lcp": 1928,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_KZ_9B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_KZ_9B",
-        "label": "monitor.hints.etsy.shopAndradeArtworks"
-    },
-    {
-        "id": "230930_PS_9A",
-        "url": "https://etsy.com/legal/fees/",
-        "timestamp": 1696078210,
-        "lcp": 1614,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_PS_9A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_PS_9A",
-        "label": "monitor.hints.etsy.legalfees"
-    },
-    {
-        "id": "230930_00_99",
-        "url": "https://etsy.com/market/t%C3%BCrk%C3%A7e",
-        "timestamp": 1696078229,
-        "lcp": 1939,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_00_99",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_00_99",
-        "label": "monitor.hints.etsy.markettC3BCrkC3A7e"
-    },
-    {
-        "id": "230930_MJ_98",
-        "url": "https://etsy.com/shop/AndradeArtworks",
-        "timestamp": 1696078152,
-        "lcp": 2065,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_MJ_98",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_MJ_98",
-        "label": "monitor.nohints.etsy.shopAndradeArtworks"
-    },
-    {
-        "id": "230930_AC_97",
-        "url": "https://etsy.com/legal/fees/",
-        "timestamp": 1696078112,
-        "lcp": 1744,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_AC_97",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_AC_97",
-        "label": "monitor.nohints.etsy.legalfees"
-    },
-    {
-        "id": "230930_2G_94",
-        "url": "https://etsy.com/sell",
-        "timestamp": 1696078049,
-        "lcp": 2230,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_2G_94",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_2G_94",
-        "label": "monitor.hints.etsy.sell"
-    },
-    {
-        "id": "230930_SE_93",
-        "url": "https://etsy.com/mx/",
-        "timestamp": 1696078003,
-        "lcp": 1218,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SE_93",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SE_93",
-        "label": "monitor.hints.etsy.mx"
-    },
-    {
-        "id": "230930_GB_92",
-        "url": "https://etsy.com/market/baby_registry",
-        "timestamp": 1696077932,
-        "lcp": 2109,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_GB_92",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_GB_92",
-        "label": "monitor.nohints.etsy.marketbaby_registry"
-    },
-    {
-        "id": "230930_5V_91",
-        "url": "https://etsy.com/sell",
-        "timestamp": 1696077936,
-        "lcp": 2129,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_5V_91",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_5V_91",
-        "label": "monitor.nohints.etsy.sell"
-    },
-    {
-        "id": "230930_FJ_90",
-        "url": "https://etsy.com/mx/",
-        "timestamp": 1696077852,
-        "lcp": 1801,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_FJ_90",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_FJ_90",
-        "label": "monitor.nohints.etsy.mx"
-    },
-    {
-        "id": "230930_M7_8Z",
-        "url": "https://etsy.com/c",
-        "timestamp": 1696077798,
-        "lcp": 2483,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_M7_8Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_M7_8Z",
-        "label": "monitor.hints.etsy.c"
-    },
-    {
-        "id": "230930_JE_8X",
-        "url": "https://etsy.com/registry",
-        "timestamp": 1696077729,
-        "lcp": 1540,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_JE_8X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_JE_8X",
-        "label": "monitor.hints.etsy.registry"
-    },
-    {
-        "id": "230930_QE_8W",
-        "url": "https://etsy.com/c",
-        "timestamp": 1696077687,
-        "lcp": 2182,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_QE_8W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_QE_8W",
-        "label": "monitor.nohints.etsy.c"
-    },
-    {
-        "id": "230930_SM_8V",
-        "url": "https://etsy.com/nl/",
-        "timestamp": 1696077677,
-        "lcp": 1718,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SM_8V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SM_8V",
-        "label": "monitor.nohints.etsy.nl"
-    },
-    {
-        "id": "230930_BV_8T",
-        "url": "https://etsy.com/registry",
-        "timestamp": 1696077610,
-        "lcp": 1528,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_BV_8T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_BV_8T",
-        "label": "monitor.nohints.etsy.registry"
-    },
-    {
-        "id": "230930_3C_8Q",
-        "url": "https://etsy.com/de/",
-        "timestamp": 1696077525,
-        "lcp": 1916,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_3C_8Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_3C_8Q",
-        "label": "monitor.hints.etsy.de"
-    },
-    {
-        "id": "230930_ZK_8P",
-        "url": "https://etsy.com/fr/",
-        "timestamp": 1696077512,
-        "lcp": 1968,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_ZK_8P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_ZK_8P",
-        "label": "monitor.hints.etsy.fr"
-    },
-    {
-        "id": "230930_19_8N",
-        "url": "https://etsy.com/it/",
-        "timestamp": 1696077399,
-        "lcp": 1119,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_19_8N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_19_8N",
-        "label": "monitor.hints.etsy.it"
-    },
-    {
-        "id": "230930_H0_8K",
-        "url": "https://etsy.com/fr/",
-        "timestamp": 1696077352,
-        "lcp": 1774,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_H0_8K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_H0_8K",
-        "label": "monitor.nohints.etsy.fr"
-    },
-    {
-        "id": "230930_4N_8J",
-        "url": "https://etsy.com/it/",
-        "timestamp": 1696077297,
-        "lcp": 1638,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_4N_8J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_4N_8J",
-        "label": "monitor.nohints.etsy.it"
-    },
-    {
-        "id": "230930_DF_8G",
-        "url": "https://etsy.com/codeascraft",
-        "timestamp": 1696077207,
-        "lcp": 1950,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_DF_8G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_DF_8G",
-        "label": "monitor.hints.etsy.codeascraft"
-    },
-    {
-        "id": "230930_AC_8E",
-        "url": "https://etsy.com/es/",
-        "timestamp": 1696077161,
-        "lcp": 1719,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_AC_8E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_AC_8E",
-        "label": "monitor.nohints.etsy.es"
-    },
-    {
-        "id": "230930_7B_8D",
-        "url": "https://etsy.com/ie/",
-        "timestamp": 1696077097,
-        "lcp": 1186,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_7B_8D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_7B_8D",
-        "label": "monitor.nohints.etsy.ie"
-    },
-    {
-        "id": "230930_P2_8C",
-        "url": "https://etsy.com/codeascraft",
-        "timestamp": 1696077099,
-        "lcp": 1877,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_P2_8C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_P2_8C",
-        "label": "monitor.nohints.etsy.codeascraft"
-    },
-    {
-        "id": "230930_CS_8A",
-        "url": "https://etsy.com/shipping",
-        "timestamp": 1696077004,
-        "lcp": 1104,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_CS_8A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_CS_8A",
-        "label": "monitor.hints.etsy.shipping"
-    },
-    {
         "id": "230930_NK_89",
         "url": "https://developer.apple.com/kr",
         "timestamp": 1696077009,
@@ -26498,16 +26808,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230930_NK_89",
         "lighthouse_url": "http://52.204.137.156:8000/result/230930_NK_89",
         "label": "monitor.hints.developer-apple.kr"
-    },
-    {
-        "id": "230930_NX_87",
-        "url": "https://etsy.com",
-        "timestamp": 1696076911,
-        "lcp": 2912,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_NX_87",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_NX_87",
-        "label": "monitor.nohints.etsy"
     },
     {
         "id": "230930_WA_86",
@@ -26660,16 +26960,6 @@
         "label": "monitor.nohints.tv-apple.gb"
     },
     {
-        "id": "230930_CD_7P",
-        "url": "https://apple.com/imovie",
-        "timestamp": 1696076149,
-        "lcp": 1901,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_CD_7P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_CD_7P",
-        "label": "monitor.hints.apple.imovie"
-    },
-    {
         "id": "230930_AD_7N",
         "url": "https://tv.apple.com",
         "timestamp": 1696076201,
@@ -26678,236 +26968,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230930_AD_7N",
         "lighthouse_url": "http://52.204.137.156:8000/result/230930_AD_7N",
         "label": "monitor.nohints.tv-apple"
-    },
-    {
-        "id": "230930_N0_7M",
-        "url": "https://apple.com/safari",
-        "timestamp": 1696076116,
-        "lcp": 2002,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_N0_7M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_N0_7M",
-        "label": "monitor.hints.apple.safari"
-    },
-    {
-        "id": "230930_P6_7K",
-        "url": "https://apple.com/imovie",
-        "timestamp": 1696076053,
-        "lcp": 2342,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_P6_7K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_P6_7K",
-        "label": "monitor.nohints.apple.imovie"
-    },
-    {
-        "id": "230930_8K_7J",
-        "url": "https://apple.com/retail",
-        "timestamp": 1696076039,
-        "lcp": 2573,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_8K_7J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_8K_7J",
-        "label": "monitor.hints.apple.retail"
-    },
-    {
-        "id": "230930_NQ_7H",
-        "url": "https://apple.com/safari",
-        "timestamp": 1696076035,
-        "lcp": 2086,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_NQ_7H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_NQ_7H",
-        "label": "monitor.nohints.apple.safari"
-    },
-    {
-        "id": "230930_03_7G",
-        "url": "https://apple.com/th",
-        "timestamp": 1696075962,
-        "lcp": 3080,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_03_7G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_03_7G",
-        "label": "monitor.hints.apple.th"
-    },
-    {
-        "id": "230930_7J_7F",
-        "url": "https://apple.com/retail",
-        "timestamp": 1696075925,
-        "lcp": 2197,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_7J_7F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_7J_7F",
-        "label": "monitor.nohints.apple.retail"
-    },
-    {
-        "id": "230930_7P_7E",
-        "url": "https://apple.com/in",
-        "timestamp": 1696075925,
-        "lcp": 2234,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_7P_7E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_7P_7E",
-        "label": "monitor.hints.apple.in"
-    },
-    {
-        "id": "230930_01_7D",
-        "url": "https://apple.com/mac",
-        "timestamp": 1696075824,
-        "lcp": 1942,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_01_7D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_01_7D",
-        "label": "monitor.hints.apple.mac"
-    },
-    {
-        "id": "230930_5Q_7C",
-        "url": "https://apple.com/th",
-        "timestamp": 1696075846,
-        "lcp": 4548,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_5Q_7C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_5Q_7C",
-        "label": "monitor.nohints.apple.th"
-    },
-    {
-        "id": "230930_5G_7B",
-        "url": "https://apple.com/in",
-        "timestamp": 1696075831,
-        "lcp": 2404,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_5G_7B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_5G_7B",
-        "label": "monitor.nohints.apple.in"
-    },
-    {
-        "id": "230930_FM_7A",
-        "url": "https://apple.com/mac",
-        "timestamp": 1696075735,
-        "lcp": 2153,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_FM_7A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_FM_7A",
-        "label": "monitor.nohints.apple.mac"
-    },
-    {
-        "id": "230930_XS_79",
-        "url": "https://apple.com/vn",
-        "timestamp": 1696075717,
-        "lcp": 3157,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XS_79",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XS_79",
-        "label": "monitor.hints.apple.vn"
-    },
-    {
-        "id": "230930_F6_78",
-        "url": "https://apple.com/es",
-        "timestamp": 1696075725,
-        "lcp": 2373,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_F6_78",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_F6_78",
-        "label": "monitor.hints.apple.es"
-    },
-    {
-        "id": "230930_XA_77",
-        "url": "https://apple.com/tr",
-        "timestamp": 1696075640,
-        "lcp": 2488,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XA_77",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XA_77",
-        "label": "monitor.hints.apple.tr"
-    },
-    {
-        "id": "230930_CR_76",
-        "url": "https://apple.com/vn",
-        "timestamp": 1696075597,
-        "lcp": 3530,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_CR_76",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_CR_76",
-        "label": "monitor.nohints.apple.vn"
-    },
-    {
-        "id": "230930_84_75",
-        "url": "https://apple.com/es",
-        "timestamp": 1696075601,
-        "lcp": 2420,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_84_75",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_84_75",
-        "label": "monitor.nohints.apple.es"
-    },
-    {
-        "id": "230930_XE_74",
-        "url": "https://apple.com/tr",
-        "timestamp": 1696075549,
-        "lcp": 2880,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XE_74",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XE_74",
-        "label": "monitor.nohints.apple.tr"
-    },
-    {
-        "id": "230930_AS_73",
-        "url": "https://apple.com",
-        "timestamp": 1696075468,
-        "lcp": 1862,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_AS_73",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_AS_73",
-        "label": "monitor.hints.apple"
-    },
-    {
-        "id": "230930_FT_72",
-        "url": "https://apple.com/cn",
-        "timestamp": 1696075483,
-        "lcp": 3611,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_FT_72",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_FT_72",
-        "label": "monitor.hints.apple.cn"
-    },
-    {
-        "id": "230930_R1_71",
-        "url": "https://apple.com/my",
-        "timestamp": 1696075480,
-        "lcp": 3068,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_R1_71",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_R1_71",
-        "label": "monitor.hints.apple.my"
-    },
-    {
-        "id": "230930_3Q_70",
-        "url": "https://apple.com/cn",
-        "timestamp": 1696075352,
-        "lcp": 3579,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_3Q_70",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_3Q_70",
-        "label": "monitor.nohints.apple.cn"
-    },
-    {
-        "id": "230930_1R_6Z",
-        "url": "https://apple.com",
-        "timestamp": 1696075356,
-        "lcp": 2024,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_1R_6Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_1R_6Z",
-        "label": "monitor.nohints.apple"
-    },
-    {
-        "id": "230930_WH_6Y",
-        "url": "https://apple.com/my",
-        "timestamp": 1696075366,
-        "lcp": 3377,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_WH_6Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_WH_6Y",
-        "label": "monitor.nohints.apple.my"
     },
     {
         "id": "230930_X3_6W",
@@ -28050,466 +28110,6 @@
         "label": "monitor.nohints.music-amazon"
     },
     {
-        "id": "230930_RM_37",
-        "url": "https://amazon.com/primesavings",
-        "timestamp": 1696060118,
-        "lcp": 5835,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_RM_37",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_RM_37",
-        "label": "monitor.hints.amazon.primesavings"
-    },
-    {
-        "id": "230930_17_36",
-        "url": "https://amazon.com/amazonprime",
-        "timestamp": 1696059989,
-        "lcp": 2508,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_17_36",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_17_36",
-        "label": "monitor.hints.amazon.amazonprime"
-    },
-    {
-        "id": "230930_2Y_35",
-        "url": "https://amazon.com",
-        "timestamp": 1696060186,
-        "lcp": 17932,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_2Y_35",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_2Y_35",
-        "label": "monitor.hints.amazon"
-    },
-    {
-        "id": "230930_RR_34",
-        "url": "https://amazon.com/primesavings",
-        "timestamp": 1696059973,
-        "lcp": 5872,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_RR_34",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_RR_34",
-        "label": "monitor.nohints.amazon.primesavings"
-    },
-    {
-        "id": "230930_S5_33",
-        "url": "https://amazon.com/amazonprime",
-        "timestamp": 1696059866,
-        "lcp": 2404,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_S5_33",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_S5_33",
-        "label": "monitor.nohints.amazon.amazonprime"
-    },
-    {
-        "id": "230930_DY_32",
-        "url": "https://etsy.com/market/merkin_pubic_wig",
-        "timestamp": 1696059820,
-        "lcp": 2030,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_DY_32",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_DY_32",
-        "label": "monitor.hints.etsy.marketmerkin_pubic_wig"
-    },
-    {
-        "id": "230930_TA_31",
-        "url": "https://etsy.com/c/weddings",
-        "timestamp": 1696059733,
-        "lcp": 2213,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_TA_31",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_TA_31",
-        "label": "monitor.hints.etsy.cweddings"
-    },
-    {
-        "id": "230930_AT_30",
-        "url": "https://amazon.com",
-        "timestamp": 1696059875,
-        "lcp": 17578,
-        "origin": "https://amazon.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_AT_30",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_AT_30",
-        "label": "monitor.nohints.amazon"
-    },
-    {
-        "id": "230930_NT_2Z",
-        "url": "https://etsy.com/market/merkin_pubic_wig",
-        "timestamp": 1696059621,
-        "lcp": 1885,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_NT_2Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_NT_2Z",
-        "label": "monitor.nohints.etsy.marketmerkin_pubic_wig"
-    },
-    {
-        "id": "230930_E5_2Y",
-        "url": "https://etsy.com/c/weddings",
-        "timestamp": 1696059571,
-        "lcp": 2393,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_E5_2Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_E5_2Y",
-        "label": "monitor.nohints.etsy.cweddings"
-    },
-    {
-        "id": "230930_Z5_2X",
-        "url": "https://etsy.com/shop/AndradeArtworks",
-        "timestamp": 1696059514,
-        "lcp": 1824,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_Z5_2X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_Z5_2X",
-        "label": "monitor.hints.etsy.shopAndradeArtworks"
-    },
-    {
-        "id": "230930_GW_2W",
-        "url": "https://etsy.com/legal/fees/",
-        "timestamp": 1696059467,
-        "lcp": 1801,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_GW_2W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_GW_2W",
-        "label": "monitor.hints.etsy.legalfees"
-    },
-    {
-        "id": "230930_HK_2V",
-        "url": "https://etsy.com/market/t%C3%BCrk%C3%A7e",
-        "timestamp": 1696059409,
-        "lcp": 2147,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_HK_2V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_HK_2V",
-        "label": "monitor.hints.etsy.markettC3BCrkC3A7e"
-    },
-    {
-        "id": "230930_3E_2T",
-        "url": "https://etsy.com/shop/AndradeArtworks",
-        "timestamp": 1696059386,
-        "lcp": 2164,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_3E_2T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_3E_2T",
-        "label": "monitor.nohints.etsy.shopAndradeArtworks"
-    },
-    {
-        "id": "230930_M4_2S",
-        "url": "https://etsy.com/legal/fees/",
-        "timestamp": 1696059311,
-        "lcp": 1714,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_M4_2S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_M4_2S",
-        "label": "monitor.nohints.etsy.legalfees"
-    },
-    {
-        "id": "230930_VZ_2R",
-        "url": "https://etsy.com/market/t%C3%BCrk%C3%A7e",
-        "timestamp": 1696059294,
-        "lcp": 2093,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_VZ_2R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_VZ_2R",
-        "label": "monitor.nohints.etsy.markettC3BCrkC3A7e"
-    },
-    {
-        "id": "230930_N6_2Q",
-        "url": "https://etsy.com/market/baby_registry",
-        "timestamp": 1696059225,
-        "lcp": 2299,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_N6_2Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_N6_2Q",
-        "label": "monitor.hints.etsy.marketbaby_registry"
-    },
-    {
-        "id": "230930_BJ_2P",
-        "url": "https://etsy.com/sell",
-        "timestamp": 1696059190,
-        "lcp": 1842,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_BJ_2P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_BJ_2P",
-        "label": "monitor.hints.etsy.sell"
-    },
-    {
-        "id": "230930_HA_2N",
-        "url": "https://etsy.com/mx/",
-        "timestamp": 1696059113,
-        "lcp": 1683,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_HA_2N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_HA_2N",
-        "label": "monitor.hints.etsy.mx"
-    },
-    {
-        "id": "230930_SH_2M",
-        "url": "https://etsy.com/market/baby_registry",
-        "timestamp": 1696059068,
-        "lcp": 2472,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SH_2M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SH_2M",
-        "label": "monitor.nohints.etsy.marketbaby_registry"
-    },
-    {
-        "id": "230930_K9_2K",
-        "url": "https://etsy.com/sell",
-        "timestamp": 1696059005,
-        "lcp": 2254,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_K9_2K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_K9_2K",
-        "label": "monitor.nohints.etsy.sell"
-    },
-    {
-        "id": "230930_TM_2J",
-        "url": "https://etsy.com/mx/",
-        "timestamp": 1696058947,
-        "lcp": 1811,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_TM_2J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_TM_2J",
-        "label": "monitor.nohints.etsy.mx"
-    },
-    {
-        "id": "230930_T3_2H",
-        "url": "https://etsy.com/c",
-        "timestamp": 1696058895,
-        "lcp": 2276,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_T3_2H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_T3_2H",
-        "label": "monitor.hints.etsy.c"
-    },
-    {
-        "id": "230930_TK_2G",
-        "url": "https://etsy.com/nl/",
-        "timestamp": 1696058827,
-        "lcp": 1237,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_TK_2G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_TK_2G",
-        "label": "monitor.hints.etsy.nl"
-    },
-    {
-        "id": "230930_Z7_2F",
-        "url": "https://etsy.com/registry",
-        "timestamp": 1696058792,
-        "lcp": 1701,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_Z7_2F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_Z7_2F",
-        "label": "monitor.hints.etsy.registry"
-    },
-    {
-        "id": "230930_SC_2E",
-        "url": "https://etsy.com/c",
-        "timestamp": 1696058709,
-        "lcp": 2067,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SC_2E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SC_2E",
-        "label": "monitor.nohints.etsy.c"
-    },
-    {
-        "id": "230930_T2_2D",
-        "url": "https://etsy.com/nl/",
-        "timestamp": 1696058703,
-        "lcp": 1688,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_T2_2D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_T2_2D",
-        "label": "monitor.nohints.etsy.nl"
-    },
-    {
-        "id": "230930_XY_2C",
-        "url": "https://etsy.com/registry",
-        "timestamp": 1696058607,
-        "lcp": 1537,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XY_2C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XY_2C",
-        "label": "monitor.nohints.etsy.registry"
-    },
-    {
-        "id": "230930_TS_2B",
-        "url": "https://etsy.com/join",
-        "timestamp": 1696058592,
-        "lcp": 958,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_TS_2B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_TS_2B",
-        "label": "monitor.hints.etsy.join"
-    },
-    {
-        "id": "230930_8J_2A",
-        "url": "https://etsy.com/de/",
-        "timestamp": 1696058503,
-        "lcp": 1630,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_8J_2A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_8J_2A",
-        "label": "monitor.hints.etsy.de"
-    },
-    {
-        "id": "230930_FF_29",
-        "url": "https://etsy.com/fr/",
-        "timestamp": 1696058522,
-        "lcp": 1768,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_FF_29",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_FF_29",
-        "label": "monitor.hints.etsy.fr"
-    },
-    {
-        "id": "230930_SK_28",
-        "url": "https://etsy.com/join",
-        "timestamp": 1696058388,
-        "lcp": 971,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SK_28",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SK_28",
-        "label": "monitor.nohints.etsy.join"
-    },
-    {
-        "id": "230930_9P_27",
-        "url": "https://etsy.com/de/",
-        "timestamp": 1696058387,
-        "lcp": 1878,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_9P_27",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_9P_27",
-        "label": "monitor.nohints.etsy.de"
-    },
-    {
-        "id": "230930_F2_26",
-        "url": "https://etsy.com/fr/",
-        "timestamp": 1696058294,
-        "lcp": 1636,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_F2_26",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_F2_26",
-        "label": "monitor.nohints.etsy.fr"
-    },
-    {
-        "id": "230930_C4_25",
-        "url": "https://etsy.com/it/",
-        "timestamp": 1696058247,
-        "lcp": 1293,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_C4_25",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_C4_25",
-        "label": "monitor.hints.etsy.it"
-    },
-    {
-        "id": "230930_Q7_24",
-        "url": "https://etsy.com/es/",
-        "timestamp": 1696058169,
-        "lcp": 1268,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_Q7_24",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_Q7_24",
-        "label": "monitor.hints.etsy.es"
-    },
-    {
-        "id": "230930_XQ_23",
-        "url": "https://etsy.com/ie/",
-        "timestamp": 1696058149,
-        "lcp": 1895,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XQ_23",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XQ_23",
-        "label": "monitor.hints.etsy.ie"
-    },
-    {
-        "id": "230930_39_22",
-        "url": "https://etsy.com/it/",
-        "timestamp": 1696058081,
-        "lcp": 1121,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_39_22",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_39_22",
-        "label": "monitor.nohints.etsy.it"
-    },
-    {
-        "id": "230930_H8_21",
-        "url": "https://etsy.com/es/",
-        "timestamp": 1696058029,
-        "lcp": 1224,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_H8_21",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_H8_21",
-        "label": "monitor.nohints.etsy.es"
-    },
-    {
-        "id": "230930_EZ_20",
-        "url": "https://etsy.com/ie/",
-        "timestamp": 1696057991,
-        "lcp": 1162,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_EZ_20",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_EZ_20",
-        "label": "monitor.nohints.etsy.ie"
-    },
-    {
-        "id": "230930_5E_1Z",
-        "url": "https://etsy.com/codeascraft",
-        "timestamp": 1696057902,
-        "lcp": 2009,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_5E_1Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_5E_1Z",
-        "label": "monitor.hints.etsy.codeascraft"
-    },
-    {
-        "id": "230930_V9_1Y",
-        "url": "https://etsy.com",
-        "timestamp": 1696057908,
-        "lcp": 1888,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_V9_1Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_V9_1Y",
-        "label": "monitor.hints.etsy"
-    },
-    {
-        "id": "230930_DG_1X",
-        "url": "https://etsy.com/shipping",
-        "timestamp": 1696057812,
-        "lcp": 1160,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_DG_1X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_DG_1X",
-        "label": "monitor.hints.etsy.shipping"
-    },
-    {
-        "id": "230930_07_1W",
-        "url": "https://etsy.com/codeascraft",
-        "timestamp": 1696057772,
-        "lcp": 2409,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_07_1W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_07_1W",
-        "label": "monitor.nohints.etsy.codeascraft"
-    },
-    {
-        "id": "230930_BF_1V",
-        "url": "https://etsy.com/shipping",
-        "timestamp": 1696057689,
-        "lcp": 1100,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_BF_1V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_BF_1V",
-        "label": "monitor.nohints.etsy.shipping"
-    },
-    {
-        "id": "230930_4B_1T",
-        "url": "https://etsy.com",
-        "timestamp": 1696057688,
-        "lcp": 1964,
-        "origin": "https://etsy.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_4B_1T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_4B_1T",
-        "label": "monitor.nohints.etsy"
-    },
-    {
         "id": "230930_PQ_1S",
         "url": "https://developer.apple.com/kr",
         "timestamp": 1696057601,
@@ -28690,666 +28290,6 @@
         "label": "monitor.nohints.tv-apple"
     },
     {
-        "id": "230930_HR_17",
-        "url": "https://apple.com/imovie",
-        "timestamp": 1696056609,
-        "lcp": 2337,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_HR_17",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_HR_17",
-        "label": "monitor.hints.apple.imovie"
-    },
-    {
-        "id": "230930_SS_16",
-        "url": "https://apple.com/safari",
-        "timestamp": 1696056573,
-        "lcp": 2173,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_SS_16",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_SS_16",
-        "label": "monitor.hints.apple.safari"
-    },
-    {
-        "id": "230930_0Y_15",
-        "url": "https://apple.com/retail",
-        "timestamp": 1696056539,
-        "lcp": 2444,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_0Y_15",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_0Y_15",
-        "label": "monitor.hints.apple.retail"
-    },
-    {
-        "id": "230930_2K_14",
-        "url": "https://apple.com/imovie",
-        "timestamp": 1696056493,
-        "lcp": 1898,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_2K_14",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_2K_14",
-        "label": "monitor.nohints.apple.imovie"
-    },
-    {
-        "id": "230930_ZT_13",
-        "url": "https://apple.com/safari",
-        "timestamp": 1696056451,
-        "lcp": 1464,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_ZT_13",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_ZT_13",
-        "label": "monitor.nohints.apple.safari"
-    },
-    {
-        "id": "230930_NT_12",
-        "url": "https://apple.com/retail",
-        "timestamp": 1696056399,
-        "lcp": 2172,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_NT_12",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_NT_12",
-        "label": "monitor.nohints.apple.retail"
-    },
-    {
-        "id": "230930_48_11",
-        "url": "https://apple.com/th",
-        "timestamp": 1696056378,
-        "lcp": 2903,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_48_11",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_48_11",
-        "label": "monitor.hints.apple.th"
-    },
-    {
-        "id": "230930_BC_10",
-        "url": "https://apple.com/in",
-        "timestamp": 1696056311,
-        "lcp": 2297,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_BC_10",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_BC_10",
-        "label": "monitor.hints.apple.in"
-    },
-    {
-        "id": "230930_BW_Z",
-        "url": "https://apple.com/mac",
-        "timestamp": 1696056274,
-        "lcp": 1950,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_BW_Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_BW_Z",
-        "label": "monitor.hints.apple.mac"
-    },
-    {
-        "id": "230930_06_Y",
-        "url": "https://apple.com/th",
-        "timestamp": 1696056221,
-        "lcp": 2147,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_06_Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_06_Y",
-        "label": "monitor.nohints.apple.th"
-    },
-    {
-        "id": "230930_A3_X",
-        "url": "https://apple.com/in",
-        "timestamp": 1696056193,
-        "lcp": 2578,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_A3_X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_A3_X",
-        "label": "monitor.nohints.apple.in"
-    },
-    {
-        "id": "230930_0N_W",
-        "url": "https://apple.com/mac",
-        "timestamp": 1696056130,
-        "lcp": 1943,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_0N_W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_0N_W",
-        "label": "monitor.nohints.apple.mac"
-    },
-    {
-        "id": "230930_CH_V",
-        "url": "https://apple.com/vn",
-        "timestamp": 1696056099,
-        "lcp": 3444,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_CH_V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_CH_V",
-        "label": "monitor.hints.apple.vn"
-    },
-    {
-        "id": "230930_14_T",
-        "url": "https://apple.com/es",
-        "timestamp": 1696056043,
-        "lcp": 2063,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_14_T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_14_T",
-        "label": "monitor.hints.apple.es"
-    },
-    {
-        "id": "230930_GF_S",
-        "url": "https://apple.com/tr",
-        "timestamp": 1696055997,
-        "lcp": 2526,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_GF_S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_GF_S",
-        "label": "monitor.hints.apple.tr"
-    },
-    {
-        "id": "230930_XA_R",
-        "url": "https://apple.com/vn",
-        "timestamp": 1696055948,
-        "lcp": 2976,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XA_R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XA_R",
-        "label": "monitor.nohints.apple.vn"
-    },
-    {
-        "id": "230930_3Q_Q",
-        "url": "https://apple.com/es",
-        "timestamp": 1696055918,
-        "lcp": 2528,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_3Q_Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_3Q_Q",
-        "label": "monitor.nohints.apple.es"
-    },
-    {
-        "id": "230930_XM_P",
-        "url": "https://apple.com/tr",
-        "timestamp": 1696055855,
-        "lcp": 2391,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_XM_P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_XM_P",
-        "label": "monitor.nohints.apple.tr"
-    },
-    {
-        "id": "230930_GT_N",
-        "url": "https://apple.com/cn",
-        "timestamp": 1696055811,
-        "lcp": 3547,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_GT_N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_GT_N",
-        "label": "monitor.hints.apple.cn"
-    },
-    {
-        "id": "230930_MK_M",
-        "url": "https://apple.com",
-        "timestamp": 1696055770,
-        "lcp": 1678,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_MK_M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_MK_M",
-        "label": "monitor.hints.apple"
-    },
-    {
-        "id": "230930_29_K",
-        "url": "https://apple.com/my",
-        "timestamp": 1696055720,
-        "lcp": 3173,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_29_K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_29_K",
-        "label": "monitor.hints.apple.my"
-    },
-    {
-        "id": "230930_J9_H",
-        "url": "https://apple.com/cn",
-        "timestamp": 1696055688,
-        "lcp": 3648,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_J9_H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_J9_H",
-        "label": "monitor.nohints.apple.cn"
-    },
-    {
-        "id": "230930_F5_J",
-        "url": "https://apple.com",
-        "timestamp": 1696055593,
-        "lcp": 2055,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_F5_J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_F5_J",
-        "label": "monitor.nohints.apple"
-    },
-    {
-        "id": "230930_WY_G",
-        "url": "https://apple.com/my",
-        "timestamp": 1696055600,
-        "lcp": 3039,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_WY_G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_WY_G",
-        "label": "monitor.nohints.apple.my"
-    },
-    {
-        "id": "230930_ZN_F",
-        "url": "https://apple.com/my",
-        "timestamp": 1696054746,
-        "lcp": 3151,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_ZN_F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_ZN_F",
-        "label": "monitor.nohints.apple.my"
-    },
-    {
-        "id": "230930_NS_E",
-        "url": "https://apple.com/cn",
-        "timestamp": 1696054660,
-        "lcp": 4095,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_NS_E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_NS_E",
-        "label": "monitor.nohints.apple.cn"
-    },
-    {
-        "id": "230930_9F_D",
-        "url": "https://apple.com",
-        "timestamp": 1696054652,
-        "lcp": 2649,
-        "origin": "https://apple.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230930_9F_D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230930_9F_D",
-        "label": "monitor.nohints.apple"
-    },
-    {
-        "id": "230925_6Z_20",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695643677,
-        "lcp": 1069,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_6Z_20",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_6Z_20",
-        "label": "monitor.hints.lowes.blowesbrands"
-    },
-    {
-        "id": "230925_Z9_1Z",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695643704,
-        "lcp": 1176,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_Z9_1Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_Z9_1Z",
-        "label": "monitor.hints.lowes.cDepartments"
-    },
-    {
-        "id": "230925_JE_1Y",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695643526,
-        "lcp": 1093,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_JE_1Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_JE_1Y",
-        "label": "monitor.nohints.lowes.blowesbrands"
-    },
-    {
-        "id": "230925_67_1X",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695643496,
-        "lcp": 2147,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_67_1X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_67_1X",
-        "label": "monitor.nohints.lowes.cDepartments"
-    },
-    {
-        "id": "230925_TM_1W",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695643457,
-        "lcp": 2312,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_TM_1W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_TM_1W",
-        "label": "monitor.hints.lowes.bcraftsman"
-    },
-    {
-        "id": "230925_VY_1V",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695643377,
-        "lcp": 3718,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_VY_1V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_VY_1V",
-        "label": "monitor.hints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230925_21_1T",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695643340,
-        "lcp": 4033,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_21_1T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_21_1T",
-        "label": "monitor.hints.lowes.cPlumbing"
-    },
-    {
-        "id": "230925_YA_1S",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695643294,
-        "lcp": 2325,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_YA_1S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_YA_1S",
-        "label": "monitor.nohints.lowes.bcraftsman"
-    },
-    {
-        "id": "230925_Y8_1R",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695643229,
-        "lcp": 1137,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_Y8_1R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_Y8_1R",
-        "label": "monitor.nohints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230925_2K_1Q",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695643159,
-        "lcp": 4755,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_2K_1Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_2K_1Q",
-        "label": "monitor.nohints.lowes.cPlumbing"
-    },
-    {
-        "id": "230925_4Y_1P",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695643111,
-        "lcp": 2246,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_4Y_1P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_4Y_1P",
-        "label": "monitor.hints.lowes.cKitchen"
-    },
-    {
-        "id": "230925_A2_1N",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695643009,
-        "lcp": 1637,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_A2_1N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_A2_1N",
-        "label": "monitor.hints.lowes.bgreenworks"
-    },
-    {
-        "id": "230925_HM_1M",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695642977,
-        "lcp": 1284,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_HM_1M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_HM_1M",
-        "label": "monitor.hints.lowes.bpella"
-    },
-    {
-        "id": "230925_73_1K",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695642876,
-        "lcp": 1381,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_73_1K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_73_1K",
-        "label": "monitor.nohints.lowes.cKitchen"
-    },
-    {
-        "id": "230925_KS_1J",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695642819,
-        "lcp": 1387,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_KS_1J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_KS_1J",
-        "label": "monitor.nohints.lowes.bgreenworks"
-    },
-    {
-        "id": "230925_ZV_1H",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695642774,
-        "lcp": 1461,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_ZV_1H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_ZV_1H",
-        "label": "monitor.nohints.lowes.bpella"
-    },
-    {
-        "id": "230925_NJ_1G",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695642659,
-        "lcp": 1825,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_NJ_1G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_NJ_1G",
-        "label": "monitor.hints.lowes.bkichler"
-    },
-    {
-        "id": "230925_6Z_1F",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695642624,
-        "lcp": 2509,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_6Z_1F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_6Z_1F",
-        "label": "monitor.hints.lowes.bflexseal"
-    },
-    {
-        "id": "230925_81_1E",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695642642,
-        "lcp": 1480,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_81_1E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_81_1E",
-        "label": "monitor.hints.lowes"
-    },
-    {
-        "id": "230925_4B_1D",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695642506,
-        "lcp": 3828,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_4B_1D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_4B_1D",
-        "label": "monitor.nohints.lowes.bkichler"
-    },
-    {
-        "id": "230925_WS_1C",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695642455,
-        "lcp": 2850,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_WS_1C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_WS_1C",
-        "label": "monitor.nohints.lowes.bflexseal"
-    },
-    {
-        "id": "230925_2D_1B",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695642397,
-        "lcp": 1065,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_2D_1B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_2D_1B",
-        "label": "monitor.nohints.lowes"
-    },
-    {
-        "id": "230925_KR_1A",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695642357,
-        "lcp": 3632,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_KR_1A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_KR_1A",
-        "label": "monitor.hints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230925_KB_19",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695642270,
-        "lcp": 3140,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_KB_19",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_KB_19",
-        "label": "monitor.hints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230925_2T_18",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695642184,
-        "lcp": 2937,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_2T_18",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_2T_18",
-        "label": "monitor.hints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230925_WZ_17",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695642174,
-        "lcp": 3666,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_WZ_17",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_WZ_17",
-        "label": "monitor.nohints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230925_SC_16",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695642060,
-        "lcp": 2479,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_SC_16",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_SC_16",
-        "label": "monitor.nohints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230925_7W_15",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695642093,
-        "lcp": 3132,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_7W_15",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_7W_15",
-        "label": "monitor.nohints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230925_3B_14",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695641981,
-        "lcp": 3015,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_3B_14",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_3B_14",
-        "label": "monitor.hints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230925_C8_13",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695641940,
-        "lcp": 3033,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_C8_13",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_C8_13",
-        "label": "monitor.hints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230925_A8_12",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695641822,
-        "lcp": 2564,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_A8_12",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_A8_12",
-        "label": "monitor.nohints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230925_JX_11",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695641810,
-        "lcp": 3670,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_JX_11",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_JX_11",
-        "label": "monitor.nohints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230925_CC_Z",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695641678,
-        "lcp": 2770,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_CC_Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_CC_Z",
-        "label": "monitor.hints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230925_FP_Y",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695641621,
-        "lcp": 4518,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_FP_Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_FP_Y",
-        "label": "monitor.hints.homedepot.l"
-    },
-    {
-        "id": "230925_7K_X",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695641522,
-        "lcp": 2890,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_7K_X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_7K_X",
-        "label": "monitor.nohints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230925_ZR_V",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695641392,
-        "lcp": 2667,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_ZR_V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_ZR_V",
-        "label": "monitor.hints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230925_ZE_T",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695641407,
-        "lcp": 4321,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_ZE_T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_ZE_T",
-        "label": "monitor.nohints.homedepot.l"
-    },
-    {
-        "id": "230925_2H_S",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695641303,
-        "lcp": 2375,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_2H_S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_2H_S",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230925_RJ_R",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695641323,
-        "lcp": 5741,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_RJ_R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_RJ_R",
-        "label": "monitor.hints.homedepot"
-    },
-    {
         "id": "230925_CK_Q",
         "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
         "timestamp": 1695641208,
@@ -29370,16 +28310,6 @@
         "label": "monitor.hints.bootbarn.clearance.html"
     },
     {
-        "id": "230925_CF_N",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695641094,
-        "lcp": 5795,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_CF_N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_CF_N",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
         "id": "230925_0H_M",
         "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
         "timestamp": 1695641016,
@@ -29398,16 +28328,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230925_AC_K",
         "lighthouse_url": "http://52.204.137.156:8000/result/230925_AC_K",
         "label": "monitor.nohints.bootbarn.clearance.html"
-    },
-    {
-        "id": "230925_1J_J",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695640841,
-        "lcp": 2109,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_1J_J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_1J_J",
-        "label": "monitor.hints.bootbarn.app.html"
     },
     {
         "id": "230925_W2_H",
@@ -29440,16 +28360,6 @@
         "label": "monitor.nohints.bootbarn.work.html"
     },
     {
-        "id": "230925_FC_E",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695640678,
-        "lcp": 2176,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_FC_E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_FC_E",
-        "label": "monitor.nohints.bootbarn.app.html"
-    },
-    {
         "id": "230925_HH_D",
         "url": "https://www.bootbarn.com/idyllwind.html",
         "timestamp": 1695640624,
@@ -29470,26 +28380,6 @@
         "label": "monitor.hints.bootbarn.cody_james.html"
     },
     {
-        "id": "230925_0S_B",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695640523,
-        "lcp": 2002,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_0S_B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_0S_B",
-        "label": "monitor.hints.bootbarn.blogwork"
-    },
-    {
-        "id": "230925_30_A",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695640424,
-        "lcp": 1989,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_30_A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_30_A",
-        "label": "monitor.hints.bootbarn.nhsra.html"
-    },
-    {
         "id": "230925_XS_9",
         "url": "https://www.bootbarn.com/cody_james.html",
         "timestamp": 1695640390,
@@ -29498,26 +28388,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230925_XS_9",
         "lighthouse_url": "http://52.204.137.156:8000/result/230925_XS_9",
         "label": "monitor.nohints.bootbarn.cody_james.html"
-    },
-    {
-        "id": "230925_VA_8",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695640369,
-        "lcp": 2489,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_VA_8",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_VA_8",
-        "label": "monitor.nohints.bootbarn.blogwork"
-    },
-    {
-        "id": "230925_CT_7",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695640301,
-        "lcp": 1890,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230925_CT_7",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230925_CT_7",
-        "label": "monitor.nohints.bootbarn.nhsra.html"
     },
     {
         "id": "230925_PG_6",
@@ -29580,406 +28450,6 @@
         "label": "monitor.nohints.bootbarn"
     },
     {
-        "id": "230923_YY_3N",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695472790,
-        "lcp": 950,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_YY_3N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_YY_3N",
-        "label": "monitor.hints.lowes.blowesbrands"
-    },
-    {
-        "id": "230923_36_3M",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695472596,
-        "lcp": 964,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_36_3M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_36_3M",
-        "label": "monitor.nohints.lowes.blowesbrands"
-    },
-    {
-        "id": "230923_DD_3K",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695472447,
-        "lcp": 1788,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_DD_3K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_DD_3K",
-        "label": "monitor.hints.lowes.cDepartments"
-    },
-    {
-        "id": "230923_2A_3J",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695472299,
-        "lcp": 1363,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_2A_3J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_2A_3J",
-        "label": "monitor.nohints.lowes.cDepartments"
-    },
-    {
-        "id": "230923_2H_3H",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695472132,
-        "lcp": 2199,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_2H_3H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_2H_3H",
-        "label": "monitor.hints.lowes.bcraftsman"
-    },
-    {
-        "id": "230923_0S_3G",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695471918,
-        "lcp": 2935,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_0S_3G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_0S_3G",
-        "label": "monitor.nohints.lowes.bcraftsman"
-    },
-    {
-        "id": "230923_AC_3F",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695471709,
-        "lcp": 1164,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_AC_3F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_AC_3F",
-        "label": "monitor.hints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230923_4Q_3E",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695471567,
-        "lcp": 2923,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_4Q_3E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_4Q_3E",
-        "label": "monitor.nohints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230923_JJ_3D",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695471407,
-        "lcp": 4396,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_JJ_3D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_JJ_3D",
-        "label": "monitor.hints.lowes.cPlumbing"
-    },
-    {
-        "id": "230923_NA_3C",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695471196,
-        "lcp": 5785,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_NA_3C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_NA_3C",
-        "label": "monitor.nohints.lowes.cPlumbing"
-    },
-    {
-        "id": "230923_EG_3B",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695471024,
-        "lcp": 1778,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_EG_3B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_EG_3B",
-        "label": "monitor.hints.lowes.cKitchen"
-    },
-    {
-        "id": "230923_ZP_3A",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695470795,
-        "lcp": 1565,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_ZP_3A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_ZP_3A",
-        "label": "monitor.nohints.lowes.cKitchen"
-    },
-    {
-        "id": "230923_KZ_39",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695470554,
-        "lcp": 1939,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_KZ_39",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_KZ_39",
-        "label": "monitor.hints.lowes.bgreenworks"
-    },
-    {
-        "id": "230923_19_38",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695470412,
-        "lcp": 1652,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_19_38",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_19_38",
-        "label": "monitor.nohints.lowes.bgreenworks"
-    },
-    {
-        "id": "230923_YR_37",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695470268,
-        "lcp": 1040,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_YR_37",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_YR_37",
-        "label": "monitor.hints.lowes.bpella"
-    },
-    {
-        "id": "230923_SZ_36",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695470058,
-        "lcp": 1197,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_SZ_36",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_SZ_36",
-        "label": "monitor.nohints.lowes.bpella"
-    },
-    {
-        "id": "230923_BY_35",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695469865,
-        "lcp": 1992,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_BY_35",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_BY_35",
-        "label": "monitor.hints.lowes.bkichler"
-    },
-    {
-        "id": "230923_79_34",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695469710,
-        "lcp": 3866,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_79_34",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_79_34",
-        "label": "monitor.nohints.lowes.bkichler"
-    },
-    {
-        "id": "230923_RT_33",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695469562,
-        "lcp": 3130,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_RT_33",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_RT_33",
-        "label": "monitor.hints.lowes.bflexseal"
-    },
-    {
-        "id": "230923_98_32",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695469399,
-        "lcp": 3814,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_98_32",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_98_32",
-        "label": "monitor.nohints.lowes.bflexseal"
-    },
-    {
-        "id": "230923_XJ_31",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695469180,
-        "lcp": 1826,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_XJ_31",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_XJ_31",
-        "label": "monitor.hints.lowes"
-    },
-    {
-        "id": "230923_VH_30",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695468973,
-        "lcp": 2053,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_VH_30",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_VH_30",
-        "label": "monitor.nohints.lowes"
-    },
-    {
-        "id": "230923_04_2Z",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695468723,
-        "lcp": 3048,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_04_2Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_04_2Z",
-        "label": "monitor.hints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230923_19_2Y",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695468599,
-        "lcp": 2745,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_19_2Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_19_2Y",
-        "label": "monitor.nohints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230923_AG_2X",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695468473,
-        "lcp": 2602,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_AG_2X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_AG_2X",
-        "label": "monitor.hints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230923_WB_2W",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695468352,
-        "lcp": 3073,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_WB_2W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_WB_2W",
-        "label": "monitor.nohints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230923_0Y_2V",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695468222,
-        "lcp": 3310,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_0Y_2V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_0Y_2V",
-        "label": "monitor.hints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230923_3J_2T",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695468079,
-        "lcp": 2962,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_3J_2T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_3J_2T",
-        "label": "monitor.nohints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230923_N2_2S",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695467925,
-        "lcp": 2738,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_N2_2S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_N2_2S",
-        "label": "monitor.hints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230923_SW_2R",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695467793,
-        "lcp": 2731,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_SW_2R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_SW_2R",
-        "label": "monitor.nohints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230923_6C_2Q",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695467603,
-        "lcp": 2660,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_6C_2Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_6C_2Q",
-        "label": "monitor.hints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230923_62_2P",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695467453,
-        "lcp": 2731,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_62_2P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_62_2P",
-        "label": "monitor.nohints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230923_X7_2N",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695467290,
-        "lcp": 2823,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_X7_2N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_X7_2N",
-        "label": "monitor.hints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230923_QD_2M",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695467144,
-        "lcp": 2347,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_QD_2M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_QD_2M",
-        "label": "monitor.nohints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230923_YK_2H",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695466389,
-        "lcp": 4231,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_YK_2H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_YK_2H",
-        "label": "monitor.hints.homedepot.l"
-    },
-    {
-        "id": "230923_MS_2G",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695466180,
-        "lcp": 3335,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_MS_2G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_MS_2G",
-        "label": "monitor.nohints.homedepot.l"
-    },
-    {
-        "id": "230923_T2_2F",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695466010,
-        "lcp": 3139,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_T2_2F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_T2_2F",
-        "label": "monitor.hints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230923_X6_2E",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695465929,
-        "lcp": 3228,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_X6_2E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_X6_2E",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230923_S2_2D",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695465827,
-        "lcp": 5554,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_S2_2D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_S2_2D",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230923_M4_2C",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695465562,
-        "lcp": 5081,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_M4_2C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_M4_2C",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
         "id": "230923_KV_2B",
         "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
         "timestamp": 1695465294,
@@ -30040,26 +28510,6 @@
         "label": "monitor.nohints.bootbarn.work.html"
     },
     {
-        "id": "230923_HQ_25",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695464336,
-        "lcp": 2204,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_HQ_25",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_HQ_25",
-        "label": "monitor.hints.bootbarn.app.html"
-    },
-    {
-        "id": "230923_HZ_24",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695464184,
-        "lcp": 2051,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_HZ_24",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_HZ_24",
-        "label": "monitor.nohints.bootbarn.app.html"
-    },
-    {
         "id": "230923_RF_23",
         "url": "https://www.bootbarn.com/idyllwind.html",
         "timestamp": 1695464032,
@@ -30110,16 +28560,6 @@
         "label": "monitor.hints.bootbarn"
     },
     {
-        "id": "230923_2B_1Y",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695463349,
-        "lcp": 1876,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_2B_1Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_2B_1Y",
-        "label": "monitor.hints.bootbarn.blogwork"
-    },
-    {
         "id": "230923_C1_1X",
         "url": "https://www.bootbarn.com",
         "timestamp": 1695463222,
@@ -30128,16 +28568,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230923_C1_1X",
         "lighthouse_url": "http://52.204.137.156:8000/result/230923_C1_1X",
         "label": "monitor.nohints.bootbarn"
-    },
-    {
-        "id": "230923_ZY_1W",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695463203,
-        "lcp": 1976,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_ZY_1W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_ZY_1W",
-        "label": "monitor.nohints.bootbarn.blogwork"
     },
     {
         "id": "230923_GS_1V",
@@ -30168,26 +28598,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230923_DR_1S",
         "lighthouse_url": "http://52.204.137.156:8000/result/230923_DR_1S",
         "label": "monitor.nohints.bootbarn"
-    },
-    {
-        "id": "230923_G1_1R",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695462975,
-        "lcp": 1900,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_G1_1R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_G1_1R",
-        "label": "monitor.hints.bootbarn.nhsra.html"
-    },
-    {
-        "id": "230923_YT_1Q",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695462851,
-        "lcp": 2134,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230923_YT_1Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230923_YT_1Q",
-        "label": "monitor.nohints.bootbarn.nhsra.html"
     },
     {
         "id": "230923_FF_1P",
@@ -30250,406 +28660,6 @@
         "label": "monitor.nohints.bootbarn"
     },
     {
-        "id": "230921_EX_20",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695292774,
-        "lcp": 911,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_EX_20",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_EX_20",
-        "label": "monitor.hints.lowes.blowesbrands"
-    },
-    {
-        "id": "230921_T4_1Z",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695292627,
-        "lcp": 1037,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_T4_1Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_T4_1Z",
-        "label": "monitor.nohints.lowes.blowesbrands"
-    },
-    {
-        "id": "230921_05_1Y",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695292449,
-        "lcp": 1145,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_05_1Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_05_1Y",
-        "label": "monitor.hints.lowes.cDepartments"
-    },
-    {
-        "id": "230921_AT_1X",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695292275,
-        "lcp": 1674,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_AT_1X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_AT_1X",
-        "label": "monitor.nohints.lowes.cDepartments"
-    },
-    {
-        "id": "230921_BZ_1W",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695292099,
-        "lcp": 2564,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_BZ_1W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_BZ_1W",
-        "label": "monitor.hints.lowes.bcraftsman"
-    },
-    {
-        "id": "230921_KK_1V",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695291921,
-        "lcp": 2455,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_KK_1V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_KK_1V",
-        "label": "monitor.nohints.lowes.bcraftsman"
-    },
-    {
-        "id": "230921_Q9_1T",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695291750,
-        "lcp": 1103,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_Q9_1T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_Q9_1T",
-        "label": "monitor.hints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230921_AX_1S",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695291575,
-        "lcp": 1157,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_AX_1S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_AX_1S",
-        "label": "monitor.nohints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230921_CS_1R",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695291396,
-        "lcp": 6296,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_CS_1R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_CS_1R",
-        "label": "monitor.hints.lowes.cPlumbing"
-    },
-    {
-        "id": "230921_JA_1Q",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695291212,
-        "lcp": 5732,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_JA_1Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_JA_1Q",
-        "label": "monitor.nohints.lowes.cPlumbing"
-    },
-    {
-        "id": "230921_EH_1P",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695291005,
-        "lcp": 1011,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_EH_1P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_EH_1P",
-        "label": "monitor.hints.lowes.cKitchen"
-    },
-    {
-        "id": "230921_PW_1N",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695290760,
-        "lcp": 1420,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_PW_1N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_PW_1N",
-        "label": "monitor.nohints.lowes.cKitchen"
-    },
-    {
-        "id": "230921_AF_1M",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695290547,
-        "lcp": 1167,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_AF_1M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_AF_1M",
-        "label": "monitor.hints.lowes.bgreenworks"
-    },
-    {
-        "id": "230921_N9_1K",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695290389,
-        "lcp": 3911,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_N9_1K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_N9_1K",
-        "label": "monitor.nohints.lowes.bgreenworks"
-    },
-    {
-        "id": "230921_R2_1J",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695290241,
-        "lcp": 1202,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_R2_1J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_R2_1J",
-        "label": "monitor.hints.lowes.bpella"
-    },
-    {
-        "id": "230921_1S_1H",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695290090,
-        "lcp": 1392,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_1S_1H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_1S_1H",
-        "label": "monitor.nohints.lowes.bpella"
-    },
-    {
-        "id": "230921_ZE_1G",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695289943,
-        "lcp": 1217,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_ZE_1G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_ZE_1G",
-        "label": "monitor.hints.lowes.bkichler"
-    },
-    {
-        "id": "230921_G2_1F",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695289788,
-        "lcp": 1095,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_G2_1F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_G2_1F",
-        "label": "monitor.nohints.lowes.bkichler"
-    },
-    {
-        "id": "230921_7W_1E",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695289623,
-        "lcp": 2820,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_7W_1E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_7W_1E",
-        "label": "monitor.hints.lowes.bflexseal"
-    },
-    {
-        "id": "230921_QS_1D",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695289439,
-        "lcp": 2606,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_QS_1D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_QS_1D",
-        "label": "monitor.nohints.lowes.bflexseal"
-    },
-    {
-        "id": "230921_A2_1C",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695289280,
-        "lcp": 1769,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_A2_1C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_A2_1C",
-        "label": "monitor.hints.lowes"
-    },
-    {
-        "id": "230921_9X_1B",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695289051,
-        "lcp": 1796,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_9X_1B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_9X_1B",
-        "label": "monitor.nohints.lowes"
-    },
-    {
-        "id": "230921_KW_1A",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695288843,
-        "lcp": 2683,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_KW_1A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_KW_1A",
-        "label": "monitor.hints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230921_0H_19",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695288688,
-        "lcp": 2727,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_0H_19",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_0H_19",
-        "label": "monitor.nohints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230921_QZ_18",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695288537,
-        "lcp": 2760,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_QZ_18",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_QZ_18",
-        "label": "monitor.hints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230921_WC_17",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695288385,
-        "lcp": 2785,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_WC_17",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_WC_17",
-        "label": "monitor.nohints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230921_CT_16",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695288231,
-        "lcp": 3701,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_CT_16",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_CT_16",
-        "label": "monitor.hints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230921_Z6_15",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695288058,
-        "lcp": 3605,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_Z6_15",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_Z6_15",
-        "label": "monitor.nohints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230921_7B_14",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695287871,
-        "lcp": 2785,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_7B_14",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_7B_14",
-        "label": "monitor.hints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230921_53_13",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695287721,
-        "lcp": 3053,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_53_13",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_53_13",
-        "label": "monitor.nohints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230921_PQ_12",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695287579,
-        "lcp": 2914,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_PQ_12",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_PQ_12",
-        "label": "monitor.hints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230921_X2_11",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695287429,
-        "lcp": 2577,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_X2_11",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_X2_11",
-        "label": "monitor.nohints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230921_FS_10",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695287296,
-        "lcp": 2607,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_FS_10",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_FS_10",
-        "label": "monitor.hints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230921_XG_Z",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695287148,
-        "lcp": 3165,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_XG_Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_XG_Z",
-        "label": "monitor.nohints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230921_DS_W",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695286405,
-        "lcp": 3637,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_DS_W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_DS_W",
-        "label": "monitor.hints.homedepot.l"
-    },
-    {
-        "id": "230921_GS_V",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695286223,
-        "lcp": 3854,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_GS_V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_GS_V",
-        "label": "monitor.nohints.homedepot.l"
-    },
-    {
-        "id": "230921_C7_T",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695286064,
-        "lcp": 2892,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_C7_T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_C7_T",
-        "label": "monitor.hints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230921_F3_S",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695285969,
-        "lcp": 3322,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_F3_S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_F3_S",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230921_1S_R",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695285857,
-        "lcp": 5365,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_1S_R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_1S_R",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230921_1M_Q",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695285607,
-        "lcp": 5365,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_1M_Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_1M_Q",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
         "id": "230921_6N_P",
         "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
         "timestamp": 1695285360,
@@ -30710,26 +28720,6 @@
         "label": "monitor.nohints.bootbarn.work.html"
     },
     {
-        "id": "230921_YY_G",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695284278,
-        "lcp": 2041,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_YY_G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_YY_G",
-        "label": "monitor.hints.bootbarn.app.html"
-    },
-    {
-        "id": "230921_A3_F",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695284132,
-        "lcp": 2029,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_A3_F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_A3_F",
-        "label": "monitor.nohints.bootbarn.app.html"
-    },
-    {
         "id": "230921_E7_E",
         "url": "https://www.bootbarn.com/idyllwind.html",
         "timestamp": 1695283977,
@@ -30768,46 +28758,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230921_8S_B",
         "lighthouse_url": "http://52.204.137.156:8000/result/230921_8S_B",
         "label": "monitor.nohints.bootbarn.cody_james.html"
-    },
-    {
-        "id": "230921_9Z_A",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695283242,
-        "lcp": 2130,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_9Z_A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_9Z_A",
-        "label": "monitor.hints.bootbarn.blogwork"
-    },
-    {
-        "id": "230921_5Q_9",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695283115,
-        "lcp": 2373,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_5Q_9",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_5Q_9",
-        "label": "monitor.nohints.bootbarn.blogwork"
-    },
-    {
-        "id": "230921_FE_8",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695282985,
-        "lcp": 1621,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_FE_8",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_FE_8",
-        "label": "monitor.hints.bootbarn.nhsra.html"
-    },
-    {
-        "id": "230921_RM_7",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695282864,
-        "lcp": 2010,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230921_RM_7",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230921_RM_7",
-        "label": "monitor.nohints.bootbarn.nhsra.html"
     },
     {
         "id": "230921_SQ_6",
@@ -30870,406 +28820,6 @@
         "label": "monitor.nohints.bootbarn"
     },
     {
-        "id": "230920_XP_20",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695211409,
-        "lcp": 1108,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_XP_20",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_XP_20",
-        "label": "monitor.hints.lowes.blowesbrands"
-    },
-    {
-        "id": "230920_Q0_1Z",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1695211215,
-        "lcp": 1124,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_Q0_1Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_Q0_1Z",
-        "label": "monitor.nohints.lowes.blowesbrands"
-    },
-    {
-        "id": "230920_TG_1Y",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695211037,
-        "lcp": 1054,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_TG_1Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_TG_1Y",
-        "label": "monitor.hints.lowes.cDepartments"
-    },
-    {
-        "id": "230920_ME_1X",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1695210847,
-        "lcp": 1569,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_ME_1X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_ME_1X",
-        "label": "monitor.nohints.lowes.cDepartments"
-    },
-    {
-        "id": "230920_4J_1W",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695210676,
-        "lcp": 3398,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_4J_1W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_4J_1W",
-        "label": "monitor.hints.lowes.bcraftsman"
-    },
-    {
-        "id": "230920_G8_1V",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1695210489,
-        "lcp": 3143,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_G8_1V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_G8_1V",
-        "label": "monitor.nohints.lowes.bcraftsman"
-    },
-    {
-        "id": "230920_T6_1T",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695210332,
-        "lcp": 1699,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_T6_1T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_T6_1T",
-        "label": "monitor.hints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230920_1J_1S",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1695210177,
-        "lcp": 1149,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_1J_1S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_1J_1S",
-        "label": "monitor.nohints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230920_JD_1R",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695210004,
-        "lcp": 6548,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_JD_1R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_JD_1R",
-        "label": "monitor.hints.lowes.cPlumbing"
-    },
-    {
-        "id": "230920_9D_1Q",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1695209809,
-        "lcp": 5480,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_9D_1Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_9D_1Q",
-        "label": "monitor.nohints.lowes.cPlumbing"
-    },
-    {
-        "id": "230920_ZY_1P",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695209622,
-        "lcp": 1657,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_ZY_1P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_ZY_1P",
-        "label": "monitor.hints.lowes.cKitchen"
-    },
-    {
-        "id": "230920_1A_1N",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1695209416,
-        "lcp": 1031,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_1A_1N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_1A_1N",
-        "label": "monitor.nohints.lowes.cKitchen"
-    },
-    {
-        "id": "230920_C6_1M",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695209182,
-        "lcp": 1101,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_C6_1M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_C6_1M",
-        "label": "monitor.hints.lowes.bgreenworks"
-    },
-    {
-        "id": "230920_8A_1K",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1695209027,
-        "lcp": 1443,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_8A_1K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_8A_1K",
-        "label": "monitor.nohints.lowes.bgreenworks"
-    },
-    {
-        "id": "230920_DM_1J",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695208883,
-        "lcp": 1564,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_DM_1J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_DM_1J",
-        "label": "monitor.hints.lowes.bpella"
-    },
-    {
-        "id": "230920_4B_1H",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1695208705,
-        "lcp": 1956,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_4B_1H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_4B_1H",
-        "label": "monitor.nohints.lowes.bpella"
-    },
-    {
-        "id": "230920_30_1G",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695208545,
-        "lcp": 1680,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_30_1G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_30_1G",
-        "label": "monitor.hints.lowes.bkichler"
-    },
-    {
-        "id": "230920_4M_1F",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1695208398,
-        "lcp": 1463,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_4M_1F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_4M_1F",
-        "label": "monitor.nohints.lowes.bkichler"
-    },
-    {
-        "id": "230920_3J_1E",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695208225,
-        "lcp": 2706,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_3J_1E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_3J_1E",
-        "label": "monitor.hints.lowes.bflexseal"
-    },
-    {
-        "id": "230920_07_1D",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1695208048,
-        "lcp": 4858,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_07_1D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_07_1D",
-        "label": "monitor.nohints.lowes.bflexseal"
-    },
-    {
-        "id": "230920_VK_1C",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695207863,
-        "lcp": 1636,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_VK_1C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_VK_1C",
-        "label": "monitor.hints.lowes"
-    },
-    {
-        "id": "230920_3V_1B",
-        "url": "https://www.lowes.com",
-        "timestamp": 1695207624,
-        "lcp": 1215,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_3V_1B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_3V_1B",
-        "label": "monitor.nohints.lowes"
-    },
-    {
-        "id": "230920_96_1A",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695207413,
-        "lcp": 3214,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_96_1A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_96_1A",
-        "label": "monitor.hints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230920_69_19",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1695207260,
-        "lcp": 3268,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_69_19",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_69_19",
-        "label": "monitor.nohints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230920_Z6_18",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695207114,
-        "lcp": 2666,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_Z6_18",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_Z6_18",
-        "label": "monitor.hints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230920_EX_17",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1695206965,
-        "lcp": 2785,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_EX_17",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_EX_17",
-        "label": "monitor.nohints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230920_K8_16",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695206811,
-        "lcp": 3249,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_K8_16",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_K8_16",
-        "label": "monitor.hints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230920_V8_15",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1695206636,
-        "lcp": 3250,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_V8_15",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_V8_15",
-        "label": "monitor.nohints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230920_RT_14",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695206451,
-        "lcp": 2773,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_RT_14",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_RT_14",
-        "label": "monitor.hints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230920_HM_13",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1695206303,
-        "lcp": 2377,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_HM_13",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_HM_13",
-        "label": "monitor.nohints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230920_7S_12",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695206152,
-        "lcp": 3387,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_7S_12",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_7S_12",
-        "label": "monitor.hints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230920_9C_11",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1695205999,
-        "lcp": 2927,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_9C_11",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_9C_11",
-        "label": "monitor.nohints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230920_Q3_10",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695205844,
-        "lcp": 2173,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_Q3_10",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_Q3_10",
-        "label": "monitor.hints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230920_HC_Z",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1695205694,
-        "lcp": 2699,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_HC_Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_HC_Z",
-        "label": "monitor.nohints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230920_EY_W",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695204951,
-        "lcp": 3727,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_EY_W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_EY_W",
-        "label": "monitor.hints.homedepot.l"
-    },
-    {
-        "id": "230920_6P_V",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1695204776,
-        "lcp": 3273,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_6P_V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_6P_V",
-        "label": "monitor.nohints.homedepot.l"
-    },
-    {
-        "id": "230920_2B_T",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695204601,
-        "lcp": 2239,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_2B_T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_2B_T",
-        "label": "monitor.hints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230920_PS_S",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1695204511,
-        "lcp": 2879,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_PS_S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_PS_S",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230920_6Y_R",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695204403,
-        "lcp": 5311,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_6Y_R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_6Y_R",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230920_W9_Q",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1695204141,
-        "lcp": 5408,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_W9_Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_W9_Q",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
         "id": "230920_CC_P",
         "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
         "timestamp": 1695203880,
@@ -31330,26 +28880,6 @@
         "label": "monitor.nohints.bootbarn.work.html"
     },
     {
-        "id": "230920_ZB_G",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695202823,
-        "lcp": 2199,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_ZB_G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_ZB_G",
-        "label": "monitor.hints.bootbarn.app.html"
-    },
-    {
-        "id": "230920_M5_F",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1695202664,
-        "lcp": 2078,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_M5_F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_M5_F",
-        "label": "monitor.nohints.bootbarn.app.html"
-    },
-    {
         "id": "230920_1V_E",
         "url": "https://www.bootbarn.com/idyllwind.html",
         "timestamp": 1695202517,
@@ -31388,46 +28918,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230920_06_B",
         "lighthouse_url": "http://52.204.137.156:8000/result/230920_06_B",
         "label": "monitor.nohints.bootbarn.cody_james.html"
-    },
-    {
-        "id": "230920_W8_A",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695201781,
-        "lcp": 1992,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_W8_A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_W8_A",
-        "label": "monitor.hints.bootbarn.blogwork"
-    },
-    {
-        "id": "230920_6Q_9",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1695201633,
-        "lcp": 2799,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_6Q_9",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_6Q_9",
-        "label": "monitor.nohints.bootbarn.blogwork"
-    },
-    {
-        "id": "230920_K1_8",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695201499,
-        "lcp": 1849,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_K1_8",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_K1_8",
-        "label": "monitor.hints.bootbarn.nhsra.html"
-    },
-    {
-        "id": "230920_QE_7",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1695201381,
-        "lcp": 1862,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230920_QE_7",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230920_QE_7",
-        "label": "monitor.nohints.bootbarn.nhsra.html"
     },
     {
         "id": "230920_TJ_6",
@@ -31490,516 +28980,6 @@
         "label": "monitor.nohints.bootbarn"
     },
     {
-        "id": "230917_07_2H",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1694969603,
-        "lcp": 1148,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_07_2H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_07_2H",
-        "label": "monitor.hints.lowes.blowesbrands"
-    },
-    {
-        "id": "230917_GJ_2G",
-        "url": "https://www.lowes.com/b/lowesbrands",
-        "timestamp": 1694969426,
-        "lcp": 1201,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_GJ_2G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_GJ_2G",
-        "label": "monitor.nohints.lowes.blowesbrands"
-    },
-    {
-        "id": "230917_ER_2F",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1694969235,
-        "lcp": 4771,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_ER_2F",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_ER_2F",
-        "label": "monitor.hints.lowes.cDepartments"
-    },
-    {
-        "id": "230917_7K_2E",
-        "url": "https://www.lowes.com/c/Departments",
-        "timestamp": 1694969084,
-        "lcp": 1766,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_7K_2E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_7K_2E",
-        "label": "monitor.nohints.lowes.cDepartments"
-    },
-    {
-        "id": "230917_YD_2D",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1694968947,
-        "lcp": 2197,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_YD_2D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_YD_2D",
-        "label": "monitor.hints.lowes.bcraftsman"
-    },
-    {
-        "id": "230917_XB_2C",
-        "url": "https://www.lowes.com/b/craftsman",
-        "timestamp": 1694968769,
-        "lcp": 2974,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_XB_2C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_XB_2C",
-        "label": "monitor.nohints.lowes.bcraftsman"
-    },
-    {
-        "id": "230917_SN_2B",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1694968584,
-        "lcp": 4559,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_SN_2B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_SN_2B",
-        "label": "monitor.hints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230917_TR_2A",
-        "url": "https://www.lowes.com/b/thompsonswaterseal",
-        "timestamp": 1694968406,
-        "lcp": 916,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_TR_2A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_TR_2A",
-        "label": "monitor.nohints.lowes.bthompsonswaterseal"
-    },
-    {
-        "id": "230917_5V_29",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1694968226,
-        "lcp": 4310,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_5V_29",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_5V_29",
-        "label": "monitor.hints.lowes.cPlumbing"
-    },
-    {
-        "id": "230917_B8_28",
-        "url": "https://www.lowes.com/c/Plumbing",
-        "timestamp": 1694968072,
-        "lcp": 4398,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_B8_28",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_B8_28",
-        "label": "monitor.nohints.lowes.cPlumbing"
-    },
-    {
-        "id": "230917_R8_27",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1694967900,
-        "lcp": 1493,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_R8_27",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_R8_27",
-        "label": "monitor.hints.lowes.cKitchen"
-    },
-    {
-        "id": "230917_YE_26",
-        "url": "https://www.lowes.com/c/Kitchen",
-        "timestamp": 1694967687,
-        "lcp": 2142,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_YE_26",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_YE_26",
-        "label": "monitor.nohints.lowes.cKitchen"
-    },
-    {
-        "id": "230917_2P_25",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1694967494,
-        "lcp": 2047,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_2P_25",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_2P_25",
-        "label": "monitor.hints.lowes.bgreenworks"
-    },
-    {
-        "id": "230917_QM_24",
-        "url": "https://www.lowes.com/b/greenworks",
-        "timestamp": 1694967322,
-        "lcp": 1340,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_QM_24",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_QM_24",
-        "label": "monitor.nohints.lowes.bgreenworks"
-    },
-    {
-        "id": "230917_ZR_23",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1694967136,
-        "lcp": 2079,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_ZR_23",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_ZR_23",
-        "label": "monitor.hints.lowes.bpella"
-    },
-    {
-        "id": "230917_VH_22",
-        "url": "https://www.lowes.com/b/pella",
-        "timestamp": 1694966959,
-        "lcp": 2759,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_VH_22",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_VH_22",
-        "label": "monitor.nohints.lowes.bpella"
-    },
-    {
-        "id": "230917_83_21",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1694966776,
-        "lcp": 1436,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_83_21",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_83_21",
-        "label": "monitor.hints.lowes.bkichler"
-    },
-    {
-        "id": "230917_X2_20",
-        "url": "https://www.lowes.com/b/kichler",
-        "timestamp": 1694966596,
-        "lcp": 1751,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_X2_20",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_X2_20",
-        "label": "monitor.nohints.lowes.bkichler"
-    },
-    {
-        "id": "230917_E9_1Z",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1694966421,
-        "lcp": 2938,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_E9_1Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_E9_1Z",
-        "label": "monitor.hints.lowes.bflexseal"
-    },
-    {
-        "id": "230917_JB_1Y",
-        "url": "https://www.lowes.com/b/flexseal",
-        "timestamp": 1694966238,
-        "lcp": 3396,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_JB_1Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_JB_1Y",
-        "label": "monitor.nohints.lowes.bflexseal"
-    },
-    {
-        "id": "230917_TA_1X",
-        "url": "https://www.lowes.com",
-        "timestamp": 1694966035,
-        "lcp": 2433,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_TA_1X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_TA_1X",
-        "label": "monitor.hints.lowes"
-    },
-    {
-        "id": "230917_MT_1W",
-        "url": "https://www.lowes.com",
-        "timestamp": 1694965803,
-        "lcp": 1520,
-        "origin": "https://www.lowes.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_MT_1W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_MT_1W",
-        "label": "monitor.nohints.lowes"
-    },
-    {
-        "id": "230917_NK_1V",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1694965598,
-        "lcp": 2328,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_NK_1V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_NK_1V",
-        "label": "monitor.hints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230917_WY_1T",
-        "url": "https://www.homedepot.com/c/concrete_equipment_rental",
-        "timestamp": 1694965483,
-        "lcp": 2320,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_WY_1T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_WY_1T",
-        "label": "monitor.nohints.homedepot.cconcrete_equipment_rental"
-    },
-    {
-        "id": "230917_G0_1S",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1694965352,
-        "lcp": 2353,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_G0_1S",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_G0_1S",
-        "label": "monitor.hints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230917_77_1R",
-        "url": "https://www.homedepot.com/c/tile_saws_equipment_rental",
-        "timestamp": 1694965225,
-        "lcp": 2782,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_77_1R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_77_1R",
-        "label": "monitor.nohints.homedepot.ctile_saws_equipment_rental"
-    },
-    {
-        "id": "230917_56_1Q",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1694965074,
-        "lcp": 2786,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_56_1Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_56_1Q",
-        "label": "monitor.hints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230917_JS_1P",
-        "url": "https://www.homedepot.com/c/Dining_Room_Lighting_Fixtures_Ideas",
-        "timestamp": 1694964929,
-        "lcp": 2702,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_JS_1P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_JS_1P",
-        "label": "monitor.nohints.homedepot.cDining_Room_Lighting_Fixtures_Ideas"
-    },
-    {
-        "id": "230917_FQ_1N",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1694964788,
-        "lcp": 2583,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_FQ_1N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_FQ_1N",
-        "label": "monitor.hints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230917_9S_1M",
-        "url": "https://www.homedepot.com/c/About_Your_Online_Order",
-        "timestamp": 1694964665,
-        "lcp": 2492,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_9S_1M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_9S_1M",
-        "label": "monitor.nohints.homedepot.cAbout_Your_Online_Order"
-    },
-    {
-        "id": "230917_QM_1K",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1694964546,
-        "lcp": 2510,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_QM_1K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_QM_1K",
-        "label": "monitor.hints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230917_6Z_1J",
-        "url": "https://www.homedepot.com/c/SF_Mobile_Shopping",
-        "timestamp": 1694964426,
-        "lcp": 2514,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_6Z_1J",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_6Z_1J",
-        "label": "monitor.nohints.homedepot.cSF_Mobile_Shopping"
-    },
-    {
-        "id": "230917_N2_1H",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1694964301,
-        "lcp": 2557,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_N2_1H",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_N2_1H",
-        "label": "monitor.hints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230917_R8_1G",
-        "url": "https://www.homedepot.com/c/Paint_Offers",
-        "timestamp": 1694964177,
-        "lcp": 2630,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_R8_1G",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_R8_1G",
-        "label": "monitor.nohints.homedepot.cPaint_Offers"
-    },
-    {
-        "id": "230917_W0_1D",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694963443,
-        "lcp": 3728,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_W0_1D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_W0_1D",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230917_3T_1C",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694963241,
-        "lcp": 4182,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_3T_1C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_3T_1C",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
-        "id": "230917_H5_1A",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694961940,
-        "lcp": 3869,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_H5_1A",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_H5_1A",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230917_91_19",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694961730,
-        "lcp": 2561,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_91_19",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_91_19",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
-        "id": "230917_HS_17",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1694958505,
-        "lcp": 3126,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_HS_17",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_HS_17",
-        "label": "monitor.hints.homedepot.l"
-    },
-    {
-        "id": "230917_VX_16",
-        "url": "https://www.homedepot.com/l/",
-        "timestamp": 1694958356,
-        "lcp": 3125,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_VX_16",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_VX_16",
-        "label": "monitor.nohints.homedepot.l"
-    },
-    {
-        "id": "230917_GT_15",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1694958205,
-        "lcp": 2921,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_GT_15",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_GT_15",
-        "label": "monitor.hints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230917_RM_14",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1694958114,
-        "lcp": 2924,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_RM_14",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_RM_14",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230917_5R_13",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694958023,
-        "lcp": 3641,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_5R_13",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_5R_13",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230917_P9_12",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694957809,
-        "lcp": 3743,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_P9_12",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_P9_12",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
-        "id": "230917_HB_11",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694957622,
-        "lcp": 4188,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_HB_11",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_HB_11",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
-        "id": "230917_5C_10",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1694957032,
-        "lcp": 2948,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_5C_10",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_5C_10",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230917_QQ_Z",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694956931,
-        "lcp": 3697,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_QQ_Z",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_QQ_Z",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230917_AW_Y",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694956727,
-        "lcp": 3636,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_AW_Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_AW_Y",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
-        "id": "230917_CA_X",
-        "url": "https://www.homedepot.com/lawnmaster",
-        "timestamp": 1694955327,
-        "lcp": 2490,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_CA_X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_CA_X",
-        "label": "monitor.nohints.homedepot.lawnmaster"
-    },
-    {
-        "id": "230917_PA_W",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694955204,
-        "lcp": 3695,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_PA_W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_PA_W",
-        "label": "monitor.hints.homedepot"
-    },
-    {
-        "id": "230917_KZ_V",
-        "url": "https://www.homedepot.com",
-        "timestamp": 1694954992,
-        "lcp": 3656,
-        "origin": "https://www.homedepot.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_KZ_V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_KZ_V",
-        "label": "monitor.nohints.homedepot"
-    },
-    {
         "id": "230917_YP_T",
         "url": "https://www.bootbarn.com/brands/wolverine/wolverine/",
         "timestamp": 1694954791,
@@ -32060,26 +29040,6 @@
         "label": "monitor.nohints.bootbarn.work.html"
     },
     {
-        "id": "230917_FG_M",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1694953887,
-        "lcp": 1821,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_FG_M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_FG_M",
-        "label": "monitor.hints.bootbarn.app.html"
-    },
-    {
-        "id": "230917_TA_K",
-        "url": "https://www.bootbarn.com/app.html",
-        "timestamp": 1694953767,
-        "lcp": 2203,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_TA_K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_TA_K",
-        "label": "monitor.nohints.bootbarn.app.html"
-    },
-    {
         "id": "230917_1K_J",
         "url": "https://www.bootbarn.com/idyllwind.html",
         "timestamp": 1694953638,
@@ -32118,46 +29078,6 @@
         "wpt_url": "http://52.204.137.156:8000/result/230917_79_F",
         "lighthouse_url": "http://52.204.137.156:8000/result/230917_79_F",
         "label": "monitor.nohints.bootbarn.cody_james.html"
-    },
-    {
-        "id": "230917_WZ_E",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1694952968,
-        "lcp": 2165,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_WZ_E",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_WZ_E",
-        "label": "monitor.hints.bootbarn.blogwork"
-    },
-    {
-        "id": "230917_BM_D",
-        "url": "https://www.bootbarn.com/blog/work",
-        "timestamp": 1694952851,
-        "lcp": 3159,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_BM_D",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_BM_D",
-        "label": "monitor.nohints.bootbarn.blogwork"
-    },
-    {
-        "id": "230917_Y9_C",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1694952718,
-        "lcp": 1823,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_Y9_C",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_Y9_C",
-        "label": "monitor.hints.bootbarn.nhsra.html"
-    },
-    {
-        "id": "230917_DH_B",
-        "url": "https://www.bootbarn.com/nhsra.html",
-        "timestamp": 1694952598,
-        "lcp": 1910,
-        "origin": "https://www.bootbarn.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_DH_B",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_DH_B",
-        "label": "monitor.nohints.bootbarn.nhsra.html"
     },
     {
         "id": "230917_W3_A",
@@ -32218,195 +29138,5 @@
         "wpt_url": "http://52.204.137.156:8000/result/230917_CC_5",
         "lighthouse_url": "http://52.204.137.156:8000/result/230917_CC_5",
         "label": "monitor.nohints.bootbarn"
-    },
-    {
-        "id": "230917_X0_4",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694951681,
-        "lcp": 2480,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_X0_4",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_X0_4",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230917_94_3",
-        "url": "https://www.nike.com",
-        "timestamp": 1694951608,
-        "lcp": 3559,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_94_3",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_94_3",
-        "label": "monitor.hints.nike"
-    },
-    {
-        "id": "230917_X6_2",
-        "url": "https://www.nike.com",
-        "timestamp": 1694951524,
-        "lcp": 3827,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230917_X6_2",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230917_X6_2",
-        "label": "monitor.nohints.nike"
-    },
-    {
-        "id": "230916_25_4",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694850622,
-        "lcp": 2679,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230916_25_4",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230916_25_4",
-        "label": "monitor.hints.viasat"
-    },
-    {
-        "id": "230916_2W_3",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694850560,
-        "lcp": 2611,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230916_2W_3",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230916_2W_3",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230916_0M_2",
-        "url": "https://www.nike.com",
-        "timestamp": 1694850486,
-        "lcp": 13253,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230916_0M_2",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230916_0M_2",
-        "label": "monitor.hints.nike"
-    },
-    {
-        "id": "230916_04_1",
-        "url": "https://www.nike.com",
-        "timestamp": 1694850400,
-        "lcp": 11749,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230916_04_1",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230916_04_1",
-        "label": "monitor.nohints.nike"
-    },
-    {
-        "id": "230914_2S_10",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694701424,
-        "lcp": 2533,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_2S_10",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_2S_10",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230914_8M_Y",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694700474,
-        "lcp": 2426,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_8M_Y",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_8M_Y",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230914_YG_X",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694700408,
-        "lcp": 2605,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_YG_X",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_YG_X",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230914_0A_W",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694700068,
-        "lcp": 2566,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_0A_W",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_0A_W",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230914_3J_V",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694699914,
-        "lcp": 2633,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_3J_V",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_3J_V",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230914_G5_T",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694699870,
-        "lcp": 2812,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_G5_T",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_G5_T",
-        "label": "monitor.hints.viasat"
-    },
-    {
-        "id": "230914_AF_R",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694693727,
-        "lcp": 2748,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_AF_R",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_AF_R",
-        "label": "monitor.hints.viasat"
-    },
-    {
-        "id": "230914_6F_Q",
-        "url": "https://www.viasat.com",
-        "timestamp": 1694693663,
-        "lcp": 2442,
-        "origin": "https://www.viasat.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_6F_Q",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_6F_Q",
-        "label": "monitor.nohints.viasat"
-    },
-    {
-        "id": "230914_FN_P",
-        "url": "https://www.nike.com",
-        "timestamp": 1694693599,
-        "lcp": 3440,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_FN_P",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_FN_P",
-        "label": "monitor.hints.nike"
-    },
-    {
-        "id": "230914_CS_N",
-        "url": "https://www.nike.com",
-        "timestamp": 1694693502,
-        "lcp": 3957,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_CS_N",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_CS_N",
-        "label": "monitor.nohints.nike"
-    },
-    {
-        "id": "230914_YZ_M",
-        "url": "https://www.nike.com",
-        "timestamp": 1694693243,
-        "lcp": 5242,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_YZ_M",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_YZ_M",
-        "label": "monitor.nohints.nike"
-    },
-    {
-        "id": "230914_VQ_K",
-        "url": "https://www.nike.com",
-        "timestamp": 1694693182,
-        "lcp": 4835,
-        "origin": "https://www.nike.com",
-        "wpt_url": "http://52.204.137.156:8000/result/230914_VQ_K",
-        "lighthouse_url": "http://52.204.137.156:8000/result/230914_VQ_K",
-        "label": "monitor.nohints.nike"
     }
 ]
