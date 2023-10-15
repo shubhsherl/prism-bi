@@ -1,5 +1,105 @@
 [
     {
+        "id": "231015_77_7",
+        "url": "https://www.apple.com/cn",
+        "timestamp": 1697370334,
+        "lcp": 3490,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_77_7",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_77_7",
+        "label": "monitor.nohints.apple.cn"
+    },
+    {
+        "id": "231015_41_A",
+        "url": "https://www.apple.com/es",
+        "timestamp": 1697370318,
+        "lcp": 1675,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_41_A",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_41_A",
+        "label": "monitor.nohints.apple.es"
+    },
+    {
+        "id": "231015_V2_9",
+        "url": "https://www.apple.com/tr",
+        "timestamp": 1697370300,
+        "lcp": 2460,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_V2_9",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_V2_9",
+        "label": "monitor.nohints.apple.tr"
+    },
+    {
+        "id": "231015_BH_8",
+        "url": "https://www.apple.com/my",
+        "timestamp": 1697370322,
+        "lcp": 2398,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_BH_8",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_BH_8",
+        "label": "monitor.nohints.apple.my"
+    },
+    {
+        "id": "231015_AR_6",
+        "url": "https://www.apple.com",
+        "timestamp": 1697370298,
+        "lcp": 2212,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_AR_6",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_AR_6",
+        "label": "monitor.nohints.apple"
+    },
+    {
+        "id": "231015_2J_3",
+        "url": "https://www.apple.com/my",
+        "timestamp": 1697370232,
+        "lcp": 2987,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_2J_3",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_2J_3",
+        "label": "monitor.nohints.apple.my"
+    },
+    {
+        "id": "231015_EZ_5",
+        "url": "https://www.apple.com/tr",
+        "timestamp": 1697370225,
+        "lcp": 2218,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_EZ_5",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_EZ_5",
+        "label": "monitor.nohints.apple.tr"
+    },
+    {
+        "id": "231015_SN_2",
+        "url": "https://www.apple.com/es",
+        "timestamp": 1697370232,
+        "lcp": 2013,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_SN_2",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_SN_2",
+        "label": "monitor.nohints.apple.es"
+    },
+    {
+        "id": "231015_X1_4",
+        "url": "https://www.apple.com/cn",
+        "timestamp": 1697370240,
+        "lcp": 3424,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_X1_4",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_X1_4",
+        "label": "monitor.nohints.apple.cn"
+    },
+    {
+        "id": "231015_AZ_1",
+        "url": "https://www.apple.com",
+        "timestamp": 1697370239,
+        "lcp": 2049,
+        "origin": "https://www.apple.com",
+        "wpt_url": "http://52.204.137.156:8000/result/231015_AZ_1",
+        "lighthouse_url": "http://52.204.137.156:8000/result/231015_AZ_1",
+        "label": "monitor.nohints.apple"
+    },
+    {
         "id": "231011_3S_BP",
         "url": "https://careers.bootbarn.com/login",
         "timestamp": 1697007864,
